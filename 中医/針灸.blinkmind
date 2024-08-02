@@ -1,0 +1,83 @@
+{
+  "rootTopicKey": "b7f00763-e375-46a7-b169-f2917114fd5a",
+  "editorRootTopicKey": "b7f00763-e375-46a7-b169-f2917114fd5a",
+  "focusKey": "a46604f4-6a34-4298-94df-78f6b70ab822",
+  "extData": {},
+  "topics": [
+    {
+      "key": "b7f00763-e375-46a7-b169-f2917114fd5a",
+      "parentKey": null,
+      "subKeys": [
+        "a46604f4-6a34-4298-94df-78f6b70ab822"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "針灸"
+        }
+      ]
+    },
+    {
+      "key": "a46604f4-6a34-4298-94df-78f6b70ab822",
+      "parentKey": "b7f00763-e375-46a7-b169-f2917114fd5a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}
