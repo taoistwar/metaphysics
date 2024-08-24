@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5961b88de37062c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png"
-              }
-            }
-          },
-          {
-            "id": "49eca8c93b2032d4",
+            "id": "cf94978bf9a83ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天纪/紫微斗数/紫微斗数.md",
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,12 +21,12 @@
             }
           },
           {
-            "id": "c5976b2fc8826402",
+            "id": "73d32b8c2ee16ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天纪/周易/六十四卦/坤为地.md",
+                "file": "道藏/道藏.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +34,12 @@
             }
           },
           {
-            "id": "802f46a3a7c91ce9",
+            "id": "54d9c421c2687bff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "天纪/周易/六十四卦.md",
+                "file": "道藏/清静经.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,77 +47,12 @@
             }
           },
           {
-            "id": "35cb1dc6d1355def",
+            "id": "f468427d0ff52640",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文汉语/汉语/韻书/廣韻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b36e0d94b75065c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中文汉语/汉语/异体字.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e7e7da5c74a48a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中文汉语/汉语/韻书/廣韻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17ebda8d95a30426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中文汉语/汉字/韻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c64758d2ad042c12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "历史/历史.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b87a146c82b8394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/周易/六十四卦/乾为天.md",
+                "file": "道藏/太清元道眞經.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "历史/历史.md",
+                "file": "道藏/道藏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "历史/历史.md"
+                "file": "道藏/道藏.md"
               }
             }
           },
@@ -234,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "历史/历史.md",
+                "file": "道藏/道藏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,10 +207,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "c64758d2ad042c12",
+  "active": "73d32b8c2ee16ced",
   "lastOpenFiles": [
-    "历史/北宋.md",
+    "道藏/太清元道眞經.md",
+    "道藏/清静经.md",
+    "道藏/道藏.md",
+    "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+    "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "历史/历史.md",
+    "历史/北宋.md",
     "中文汉语/汉字/韻.md",
     "中文汉语/汉语/韻书/廣韻.md",
     "中文汉语/汉语/异体字.md",
@@ -296,8 +226,6 @@
     "天纪",
     "传武/站桩",
     "天纪/风水地理",
-    "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
-    "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "文言文/书信/与妻书.md",
     "文言文/表/出师表.md",
     "文言文/表/陈情表.md",
@@ -315,9 +243,6 @@
     "从零开始DIY.md",
     "电路原理/第3讲 支路变量(branch variables).md",
     "电路原理/第8讲 端口(port).md",
-    "电路原理/第9讲 受控元件(dependent elements).md",
-    "电路原理/第10讲 基尔霍夫定律(KCL KVL).md",
-    "电路原理/第11讲 2B法.md",
     "电路原理/image/恒定加速度的变化率.png",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
