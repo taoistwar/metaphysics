@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "edaa3fb8e87b62f8",
+        "id": "5545f794973185b5",
         "type": "tabs",
         "children": [
           {
-            "id": "cf94978bf9a83ff8",
+            "id": "053d4c33e7e6953f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+                "file": "天纪/紫微斗数/派别.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "73d32b8c2ee16ced",
+            "id": "a6e1784cd8be84bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道藏/道藏.md",
+                "file": "天纪/紫微斗数/身宫.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "54d9c421c2687bff",
+            "id": "846305220741fa56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道藏/清静经.md",
+                "file": "天纪/紫微斗数/命盘.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,38 @@
             }
           },
           {
-            "id": "f468427d0ff52640",
+            "id": "61d1dbf9705c0e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "道藏/太清元道眞經.md",
+                "file": "天纪/紫微斗数/紫微斗数-思维导图.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ba93714c00a2534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天纪/紫微斗数/宫位.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2458873f73a3e23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "天纪/紫微斗数/星曜.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "道藏/道藏.md",
+                "file": "天纪/紫微斗数/星曜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "道藏/道藏.md"
+                "file": "天纪/紫微斗数/星曜.md"
               }
             }
           },
@@ -159,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "道藏/道藏.md",
+                "file": "天纪/紫微斗数/星曜.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,12 +209,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +232,19 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "73d32b8c2ee16ced",
+  "active": "2458873f73a3e23c",
   "lastOpenFiles": [
+    "天纪/紫微斗数/宫位.md",
+    "天纪/紫微斗数/紫微斗数-思维导图.md",
+    "天纪/紫微斗数/星曜.md",
+    "天纪/紫微斗数/命盘.md",
+    "天纪/紫微斗数/派别.md",
+    "天纪/紫微斗数/紫微斗数.md",
+    "天纪/紫微斗数/格局气象.md",
+    "天纪/紫微斗数/身宫.md",
+    "道藏/道藏.md",
     "道藏/太清元道眞經.md",
     "道藏/清静经.md",
-    "道藏/道藏.md",
     "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "历史/历史.md",
@@ -222,7 +255,6 @@
     "天纪/周易/六十四卦.md",
     "天纪/周易/六十四卦/乾为天.md",
     "天纪/周易/六十四卦/坤为地.md",
-    "天纪/紫微斗数/紫微斗数.md",
     "天纪",
     "传武/站桩",
     "天纪/风水地理",
@@ -236,13 +268,6 @@
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/电子元器件/二极管.md",
-    "电路原理/电子/运放电路.md",
-    "电路原理/电子/信号.md",
-    "硬工.md",
-    "中英翻译.md",
-    "从零开始DIY.md",
-    "电路原理/第3讲 支路变量(branch variables).md",
-    "电路原理/第8讲 端口(port).md",
     "电路原理/image/恒定加速度的变化率.png",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
