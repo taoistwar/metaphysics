@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac7ba518f716501e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d404747a99ac1990",
             "type": "leaf",
             "state": {
@@ -38,25 +30,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "67a368b00f7cc96f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a02df58fdebc545f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +166,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "a02df58fdebc545f",
+  "active": "8d815a9b2e13a682",
   "lastOpenFiles": [
     "3. 资源/DIY/电子/变压器.md",
     "2. 领域/个人品牌/个人品牌.README.md",
