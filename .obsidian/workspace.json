@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5545f794973185b5",
+        "id": "aec0dce06d9e1110",
         "type": "tabs",
         "children": [
           {
-            "id": "053d4c33e7e6953f",
+            "id": "501ae61c413103f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/派别.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e1784cd8be84bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/身宫.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846305220741fa56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/命盘.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61d1dbf9705c0e8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/紫微斗数-思维导图.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ba93714c00a2534",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/宫位.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2458873f73a3e23c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "天纪/紫微斗数/星曜.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "天纪/紫微斗数/星曜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "天纪/紫微斗数/星曜.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "天纪/紫微斗数/星曜.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,42 +157,44 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2458873f73a3e23c",
+  "active": "501ae61c413103f6",
   "lastOpenFiles": [
-    "天纪/紫微斗数/宫位.md",
-    "天纪/紫微斗数/紫微斗数-思维导图.md",
+    "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
+    "中医/中医基础理论/五行.md",
+    "中医/中医基础理论",
+    "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
+    "中医/中医基础理论/阴阳.md",
+    "中医/中医.md",
+    "天纪/紫微斗数/紫微斗数-思维导图.md",
+    "中文汉语/书法/九宫格.md",
+    "中文汉语/书法/书法.md",
+    "天纪/紫微斗数/北斗诸星/左辅.md",
+    "天纪/紫微斗数/北斗诸星/廉贞.md",
+    "天纪/紫微斗数/北斗诸星",
+    "天纪/紫微斗数/北斗诸星/贪狼.md",
+    "天纪/紫微斗数/北斗诸星/陀罗.md",
+    "天纪/紫微斗数/北斗诸星/擎羊.md",
+    "天纪/紫微斗数/北斗诸星/右弼.md",
+    "天纪/紫微斗数/北斗诸星/破军.md",
+    "天纪/紫微斗数/北斗诸星/文曲.md",
+    "天纪/紫微斗数/北斗诸星/武曲.md",
+    "天纪/紫微斗数/北斗诸星/禄存.md",
+    "天纪/紫微斗数/北斗诸星/巨门.md",
     "天纪/紫微斗数/命盘.md",
+    "天纪/紫微斗数/宫位.md",
+    "天纪/紫微斗数/格局气象.md",
     "天纪/紫微斗数/派别.md",
     "天纪/紫微斗数/紫微斗数.md",
-    "天纪/紫微斗数/格局气象.md",
     "天纪/紫微斗数/身宫.md",
-    "道藏/道藏.md",
-    "道藏/太清元道眞經.md",
-    "道藏/清静经.md",
-    "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
-    "历史/历史.md",
-    "历史/北宋.md",
-    "中文汉语/汉字/韻.md",
-    "中文汉语/汉语/韻书/廣韻.md",
-    "中文汉语/汉语/异体字.md",
-    "天纪/周易/六十四卦.md",
-    "天纪/周易/六十四卦/乾为天.md",
-    "天纪/周易/六十四卦/坤为地.md",
     "天纪",
     "传武/站桩",
     "天纪/风水地理",
-    "文言文/书信/与妻书.md",
-    "文言文/表/出师表.md",
-    "文言文/表/陈情表.md",
-    "电路原理/电子元器件/三极管.md",
-    "化学/初中化学/初中化学：绪言.md",
     "化学/初中化学",
     "化学",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
-    "电路原理/电子元器件/二极管.md",
     "电路原理/image/恒定加速度的变化率.png",
     "电路原理/image/NPN样例电路.png",
     "电路原理/image/PNP样例电路.png",
@@ -279,8 +206,6 @@
     "主页.canvas",
     "3. 资源/DIY/电气定律",
     "2. 领域/Rust",
-    "3. 资源/DIY/工具",
-    "3. 资源/DIY/电子元器件",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
