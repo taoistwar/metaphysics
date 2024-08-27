@@ -4,18 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "aec0dce06d9e1110",
+        "id": "bdd9df2e12b2e4d4",
         "type": "tabs",
         "children": [
           {
-            "id": "501ae61c413103f6",
+            "id": "24b5bececb909c39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "中医/中医基础理论/脏腑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ebb504e088355ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/中医基础理论/阴阳.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe17805eb03b6dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/中医基础理论/经络.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2043695f5b4e042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/中医.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "中医/中医基础理论/脏腑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -102,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "中医/中医基础理论/脏腑.md"
+              }
             }
           },
           {
@@ -111,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "中医/中医基础理论/脏腑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,14 +206,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "501ae61c413103f6",
+  "active": "6d086e2d3fce45ca",
   "lastOpenFiles": [
+    "中医/中医基础理论/经络.md",
+    "中医/中医基础理论/阴阳.md",
+    "中医/中医基础理论/脏腑.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
     "中医/中医基础理论/五行.md",
     "中医/中医基础理论",
     "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
-    "中医/中医基础理论/阴阳.md",
     "中医/中医.md",
     "天纪/紫微斗数/紫微斗数-思维导图.md",
     "中文汉语/书法/九宫格.md",
@@ -185,8 +236,6 @@
     "天纪/紫微斗数/宫位.md",
     "天纪/紫微斗数/格局气象.md",
     "天纪/紫微斗数/派别.md",
-    "天纪/紫微斗数/紫微斗数.md",
-    "天纪/紫微斗数/身宫.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "天纪",
     "传武/站桩",
