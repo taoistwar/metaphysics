@@ -8,137 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac7ba518f716501e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/丹道/丹道.README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d404747a99ac1990",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 周期笔记/2024/Daily/06/2024-06-20.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "7c823ae8e5bbb4a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 领域/README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "8d815a9b2e13a682",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/从零开始DIY.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67a368b00f7cc96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电路.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a02df58fdebc545f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电阻.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c90da0d280d0d442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/电压.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c9aae68e18434d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/二极管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2ded893f043a527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. 资源/DIY/电子/三极管.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "facde2bb3edc251e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. 领域/个人品牌/个人品牌.README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,7 +110,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -233,7 +126,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -244,9 +136,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "2. 领域/个人品牌/个人品牌.README.md"
-          }
+          "state": {}
         }
       },
       {
@@ -262,7 +152,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templates:插入模板": false,
+      "audio-recorder:开始/结束录音": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -271,11 +162,11 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "periodic-para:LifeOS": false,
-      "fuzzy-chinese-pinyin:FuzzySearch": false
+      "fuzzy-chinese-pinyin:FuzzySearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "facde2bb3edc251e",
+  "active": "8d815a9b2e13a682",
   "lastOpenFiles": [
     "3. 资源/DIY/电子/变压器.md",
     "2. 领域/个人品牌/个人品牌.README.md",
