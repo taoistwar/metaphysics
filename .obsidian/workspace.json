@@ -58,9 +58,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f01f85e46c6b5e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad56b1c3a28009da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "国学/视角.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,9 +234,14 @@
   },
   "active": "6d086e2d3fce45ca",
   "lastOpenFiles": [
+    "国学/images",
+    "国学/images/Pasted image 20240828094142.png",
+    "README.md",
+    "国学/视角.md",
+    "国学",
+    "中医/中医基础理论/脏腑.md",
     "中医/中医基础理论/经络.md",
     "中医/中医基础理论/阴阳.md",
-    "中医/中医基础理论/脏腑.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
     "中医/中医基础理论/五行.md",
@@ -233,9 +264,6 @@
     "天纪/紫微斗数/北斗诸星/禄存.md",
     "天纪/紫微斗数/北斗诸星/巨门.md",
     "天纪/紫微斗数/命盘.md",
-    "天纪/紫微斗数/宫位.md",
-    "天纪/紫微斗数/格局气象.md",
-    "天纪/紫微斗数/派别.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "天纪",
     "传武/站桩",
@@ -250,11 +278,9 @@
     "电路原理/image/NPN.png",
     "电路原理/image/PNP.png",
     "电路原理/image/PNP.png",
-    "电路原理/image/非线性变化速度的累积效应.png",
     "电路原理",
     "主页.canvas",
     "3. 资源/DIY/电气定律",
-    "2. 领域/Rust",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
