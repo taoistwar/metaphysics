@@ -8,71 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24b5bececb909c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/脏腑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ebb504e088355ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/阴阳.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe17805eb03b6dd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/经络.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2043695f5b4e042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f01f85e46c6b5e63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ad56b1c3a28009da",
             "type": "leaf",
             "state": {
@@ -85,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/中医基础理论/脏腑.md",
+                "file": "国学/视角.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/中医基础理论/脏腑.md"
+                "file": "国学/视角.md"
               }
             }
           },
@@ -185,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/中医基础理论/脏腑.md",
+                "file": "国学/视角.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,14 +166,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "6d086e2d3fce45ca",
+  "active": "ad56b1c3a28009da",
   "lastOpenFiles": [
+    "中医/中医基础理论/脏腑.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
     "README.md",
     "国学/视角.md",
     "国学",
-    "中医/中医基础理论/脏腑.md",
     "中医/中医基础理论/经络.md",
     "中医/中医基础理论/阴阳.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
@@ -280,7 +214,6 @@
     "电路原理/image/PNP.png",
     "电路原理",
     "主页.canvas",
-    "3. 资源/DIY/电气定律",
     "未命名.canvas",
     "HOME.canvas",
     "Templates/HOME.canvas",
