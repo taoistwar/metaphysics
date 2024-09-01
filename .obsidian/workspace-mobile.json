@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd4fcf5415fa3cb",
+        "id": "528f142748f40e43",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6c90627eb5bc94",
+            "id": "ba359588c09dc62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/中医.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d461c9e75a2cd056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/经络.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "中医/中医基础理论/经络.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "中医/中医基础理论/经络.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "中医/中医基础理论/经络.md"
+            "file": "README.md"
           }
         }
       },
@@ -172,8 +158,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d461c9e75a2cd056",
+  "active": "ba359588c09dc62b",
   "lastOpenFiles": [
+    "README.md",
     "中医/中医.md",
     "中医/中医基础理论/经络.md",
     "国学/视角.md",
@@ -212,7 +199,6 @@
     "/天纪/紫微斗数/北斗诸星/禄存.md",
     "/天纪/紫微斗数/北斗诸星/破军.md",
     "/天纪/紫微斗数/北斗诸星/武曲.md",
-    "/天纪/紫微斗数/北斗诸星/文曲.md",
     "/中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "天纪/紫微斗数/北斗诸星",
     "天纪/周易/六十四卦",
