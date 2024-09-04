@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "bdd9df2e12b2e4d4",
+        "id": "cf2f01b162b916b6",
         "type": "tabs",
         "children": [
           {
-            "id": "ad56b1c3a28009da",
+            "id": "de51378559ea66f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国学/视角.md",
+                "file": "中医/中医基础理论/脏腑.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3f132aed1ef68dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/中医基础理论/五行.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "国学/视角.md",
+                "file": "中医/中医基础理论/五行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "国学/视角.md"
+                "file": "中医/中医基础理论/五行.md"
               }
             }
           },
@@ -119,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "国学/视角.md",
+                "file": "中医/中医基础理论/五行.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,13 +180,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ad56b1c3a28009da",
+  "active": "b3f132aed1ef68dd",
   "lastOpenFiles": [
     "中医/中医基础理论/脏腑.md",
+    "国学/视角.md",
+    "README.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
-    "README.md",
-    "国学/视角.md",
     "国学",
     "中医/中医基础理论/经络.md",
     "中医/中医基础理论/阴阳.md",
