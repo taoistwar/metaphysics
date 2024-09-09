@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0dd9d209df9f7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/中医基础理论/五行.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/中医基础理论/五行.md"
+                "file": "README.md"
               }
             }
           },
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/中医基础理论/五行.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,8 +193,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b3f132aed1ef68dd",
+  "active": "d0dd9d209df9f7e5",
   "lastOpenFiles": [
+    "中医/中医基础理论/五行.md",
     "中医/中医基础理论/脏腑.md",
     "国学/视角.md",
     "README.md",
@@ -192,7 +206,6 @@
     "中医/中医基础理论/阴阳.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
-    "中医/中医基础理论/五行.md",
     "中医/中医基础理论",
     "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
     "中医/中医.md",
