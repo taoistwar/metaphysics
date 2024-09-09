@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "704b75551b0da535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "继电",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md"
               }
             }
           },
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,12 +207,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "d0dd9d209df9f7e5",
+  "active": "704b75551b0da535",
   "lastOpenFiles": [
+    "README.md",
     "中医/中医基础理论/五行.md",
     "中医/中医基础理论/脏腑.md",
     "国学/视角.md",
-    "README.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
     "国学",
