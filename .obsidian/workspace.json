@@ -117,8 +117,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,7 +206,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "704b75551b0da535",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
     "README.md",
     "中医/中医基础理论/五行.md",
