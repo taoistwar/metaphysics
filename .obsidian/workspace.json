@@ -32,9 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0dd9d209df9f7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "704b75551b0da535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "丹道/大丹直指.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -63,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "继电",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中医/中医基础理论/五行.md",
+                "file": "丹道/大丹直指.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/中医基础理论/五行.md"
+                "file": "丹道/大丹直指.md"
               }
             }
           },
@@ -133,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中医/中医基础理论/五行.md",
+                "file": "丹道/大丹直指.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,11 +206,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b3f132aed1ef68dd",
+  "active": "704b75551b0da535",
   "lastOpenFiles": [
+    "丹道/丹道.md",
+    "丹道/大丹直指.md",
     "中医/中医基础理论/脏腑.md",
-    "国学/视角.md",
     "README.md",
+    "中医/中医基础理论/五行.md",
+    "国学/视角.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
     "国学",
@@ -192,7 +221,6 @@
     "中医/中医基础理论/阴阳.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
-    "中医/中医基础理论/五行.md",
     "中医/中医基础理论",
     "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
     "中医/中医.md",
@@ -211,7 +239,6 @@
     "天纪/紫微斗数/北斗诸星/武曲.md",
     "天纪/紫微斗数/北斗诸星/禄存.md",
     "天纪/紫微斗数/北斗诸星/巨门.md",
-    "天纪/紫微斗数/命盘.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "天纪",
     "传武/站桩",
