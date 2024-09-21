@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/中医基础理论/经络.md",
+                "file": "道藏/道德经.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "中医/中医基础理论/经络.md",
+            "file": "道藏/道德经.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "中医/中医基础理论/经络.md",
+            "file": "道藏/道德经.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "中医/中医基础理论/经络.md"
+            "file": "道藏/道德经.md"
           }
         }
       },
@@ -174,9 +174,11 @@
   },
   "active": "ba61d57403b77d0f",
   "lastOpenFiles": [
+    "中医/中医基础理论/经络.md",
+    "道藏/道德经.md",
+    "/中医/中医基础理论/五行.md",
     "README.md",
     "中医/中医.md",
-    "中医/中医基础理论/经络.md",
     "国学/视角.md",
     "国学/images/Pasted image 20240828094142.png",
     "/国学/视角.md",
@@ -211,8 +213,6 @@
     "/天纪/紫微斗数/北斗诸星/陀罗.md",
     "/天纪/紫微斗数/北斗诸星/贪狼.md",
     "/天纪/紫微斗数/北斗诸星/禄存.md",
-    "/天纪/紫微斗数/北斗诸星/破军.md",
-    "/天纪/紫微斗数/北斗诸星/武曲.md",
     "/中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "天纪/紫微斗数/北斗诸星",
     "天纪/周易/六十四卦",
