@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "528f142748f40e43",
+        "id": "39328803b936d10c",
         "type": "tabs",
         "children": [
           {
-            "id": "6de88ec7d82dc98f",
+            "id": "411e6a7a889792e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/拔罐/拔罐.md",
+                "file": "历史/西晋.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "中医/拔罐/拔罐.md",
+            "file": "历史/西晋.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "中医/拔罐/拔罐.md",
+            "file": "历史/西晋.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "中医/拔罐/拔罐.md"
+            "file": "历史/西晋.md"
           }
         }
       },
@@ -158,10 +158,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6de88ec7d82dc98f",
+  "active": "411e6a7a889792e0",
   "lastOpenFiles": [
-    "中医/针灸/艾灸.md",
+    "历史/西晋.md",
     "中医/拔罐/拔罐.md",
+    "/README.md",
+    "中医/针灸/艾灸.md",
     "中医/针灸",
     "README.md",
     "中医/拔罐",
@@ -185,7 +187,6 @@
     "国学/images/Pasted image 20240828094142.png",
     "/国学/视角.md",
     "/国学/images/Pasted image 20240828094142.png",
-    "/README.md",
     "国学/images",
     "国学",
     "/国学/images",
@@ -195,7 +196,6 @@
     "天纪/紫微斗数/北斗诸星/禄存.md",
     "天纪/紫微斗数/北斗诸星/破军.md",
     "天纪/紫微斗数/北斗诸星/武曲.md",
-    "天纪/紫微斗数/北斗诸星/文曲.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "中文汉语/书法/image/1665195044787.png",
     "中文汉语/书法/image/1665195034585.png",
