@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de51378559ea66f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/脏腑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3f132aed1ef68dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/中医基础理论/五行.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0dd9d209df9f7e5",
             "type": "leaf",
             "state": {
@@ -45,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "704b75551b0da535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "丹道/大丹直指.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +97,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "丹道/大丹直指.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "丹道/大丹直指.md"
+                "file": "README.md"
               }
             }
           },
@@ -159,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "丹道/大丹直指.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,13 +166,13 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "704b75551b0da535",
+  "active": "d0dd9d209df9f7e5",
   "lastOpenFiles": [
-    "丹道/丹道.md",
-    "丹道/大丹直指.md",
     "中医/中医基础理论/脏腑.md",
-    "README.md",
     "中医/中医基础理论/五行.md",
+    "README.md",
+    "丹道/大丹直指.md",
+    "丹道/丹道.md",
     "国学/视角.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
