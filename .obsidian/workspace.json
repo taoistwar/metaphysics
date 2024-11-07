@@ -17,10 +17,28 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "dc306ae73c029f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "九成宫醴泉铭"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -55,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -63,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -74,7 +98,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -97,10 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "九成宫醴泉铭 的出链列表"
             }
           },
           {
@@ -109,8 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
-              }
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md"
+              },
+              "icon": "lucide-list",
+              "title": "九成宫醴泉铭 的大纲"
             }
           },
           {
@@ -119,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "九成宫醴泉铭 的反向链接列表"
             }
           },
           {
@@ -139,7 +171,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -166,8 +200,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "dc306ae73c029f87",
   "lastOpenFiles": [
+    "README.md",
     "国学/视角.md",
     "国学/教育.md",
     "玄学/南怀瑾.md",
@@ -177,7 +212,6 @@
     "中医/针灸",
     "中医/拔罐/拔罐.md",
     "中医/拔罐",
-    "README.md",
     "中医/中医基础理论/脏腑.md",
     "中医/中医基础理论/五行.md",
     "丹道/大丹直指.md",
