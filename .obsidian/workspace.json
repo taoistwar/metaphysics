@@ -8,33 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0dd9d209df9f7e5",
+            "id": "41b89905a0be6875",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "南怀瑾/南禅七日/南禅七日01 笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "南禅七日01 笔记"
             }
           },
           {
-            "id": "dc306ae73c029f87",
+            "id": "228f32bf01d7a411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf"
               },
-              "icon": "lucide-file",
-              "title": "九成宫醴泉铭"
+              "icon": "lucide-file-text",
+              "title": "南禅七日01-02文字版"
             }
           }
         ],
@@ -123,12 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "九成宫醴泉铭 的出链列表"
+              "title": "南禅七日01-02文字版 的出链列表"
             }
           },
           {
@@ -137,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md"
+                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf"
               },
               "icon": "lucide-list",
-              "title": "九成宫醴泉铭 的大纲"
+              "title": "南禅七日01-02文字版 的大纲"
             }
           },
           {
@@ -149,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +156,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "九成宫醴泉铭 的反向链接列表"
+              "title": "南禅七日01-02文字版 的反向链接列表"
             }
           },
           {
@@ -200,8 +197,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "dc306ae73c029f87",
+  "active": "228f32bf01d7a411",
   "lastOpenFiles": [
+    "南怀瑾/南禅七日/南禅七日01 笔记.md",
+    "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
+    "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+    "南怀瑾/南禅七日/01..md",
+    "南怀瑾/南禅七日",
+    "南怀瑾",
     "README.md",
     "国学/视角.md",
     "国学/教育.md",
@@ -232,14 +235,7 @@
     "天纪/紫微斗数/北斗诸星/左辅.md",
     "天纪/紫微斗数/北斗诸星/廉贞.md",
     "天纪/紫微斗数/北斗诸星",
-    "天纪/紫微斗数/北斗诸星/贪狼.md",
-    "天纪/紫微斗数/北斗诸星/陀罗.md",
-    "天纪/紫微斗数/北斗诸星/擎羊.md",
-    "天纪/紫微斗数/北斗诸星/右弼.md",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
-    "天纪",
-    "传武/站桩",
-    "天纪/风水地理",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/image/恒定加速度的变化率.png",
