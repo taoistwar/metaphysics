@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cf2f01b162b916b6",
+        "id": "62f820a26de52e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "41b89905a0be6875",
+            "id": "237d9c3fa632cc87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "南怀瑾/南禅七日/南禅七日01 笔记.md",
+                "file": "国学/经济.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "南禅七日01 笔记"
-            }
-          },
-          {
-            "id": "228f32bf01d7a411",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "南禅七日01-02文字版"
+              "title": "经济"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +121,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "南怀瑾/南禅七日/南禅七日01-02文字版.pdf"
+                "file": "国学/经济.md"
               },
               "icon": "lucide-list",
-              "title": "南禅七日01-02文字版 的大纲"
+              "title": "经济 的大纲"
             }
           },
           {
@@ -197,17 +184,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "228f32bf01d7a411",
+  "active": "237d9c3fa632cc87",
   "lastOpenFiles": [
+    "国学/经济.md",
     "南怀瑾/南禅七日/南禅七日01 笔记.md",
     "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
+    "丹道/经典/大丹直指.md",
+    "国学/教育.md",
+    "国学/视角.md",
+    "丹道/经典",
     "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "南怀瑾/南禅七日/01..md",
     "南怀瑾/南禅七日",
     "南怀瑾",
     "README.md",
-    "国学/视角.md",
-    "国学/教育.md",
     "玄学/南怀瑾.md",
     "玄学",
     "历史/西晋.md",
@@ -217,8 +207,7 @@
     "中医/拔罐",
     "中医/中医基础理论/脏腑.md",
     "中医/中医基础理论/五行.md",
-    "丹道/大丹直指.md",
-    "丹道/丹道.md",
+    "丹道/经典/丹道.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
     "国学",
@@ -234,7 +223,6 @@
     "中文汉语/书法/书法.md",
     "天纪/紫微斗数/北斗诸星/左辅.md",
     "天纪/紫微斗数/北斗诸星/廉贞.md",
-    "天纪/紫微斗数/北斗诸星",
     "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
