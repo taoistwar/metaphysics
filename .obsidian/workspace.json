@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "经济"
             }
+          },
+          {
+            "id": "f382463c21c8ad35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "国学/船山遗书/船山遗书.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "船山遗书"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "国学/经济.md"
+                "file": "国学/船山遗书/船山遗书.md"
               },
               "icon": "lucide-list",
-              "title": "经济 的大纲"
+              "title": "船山遗书 的大纲"
             }
           },
           {
@@ -184,16 +200,19 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "237d9c3fa632cc87",
+  "active": "f382463c21c8ad35",
   "lastOpenFiles": [
     "国学/经济.md",
+    "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+    "国学/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
+    "国学/船山遗书/船山遗书.md",
+    "国学/船山遗书",
+    "国学/教育.md",
+    "国学/视角.md",
     "南怀瑾/南禅七日/南禅七日01 笔记.md",
     "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
     "丹道/经典/大丹直指.md",
-    "国学/教育.md",
-    "国学/视角.md",
     "丹道/经典",
-    "中文汉语/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "南怀瑾/南禅七日/01..md",
     "南怀瑾/南禅七日",
     "南怀瑾",
@@ -215,15 +234,11 @@
     "中医/中医基础理论/阴阳.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
     "天纪/紫微斗数/星曜.md",
-    "中医/中医基础理论",
     "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
     "中医/中医.md",
     "天纪/紫微斗数/紫微斗数-思维导图.md",
-    "中文汉语/书法/九宫格.md",
-    "中文汉语/书法/书法.md",
-    "天纪/紫微斗数/北斗诸星/左辅.md",
-    "天纪/紫微斗数/北斗诸星/廉贞.md",
-    "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
+    "国学/书法/九宫格.md",
+    "国学/书法/书法.md",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/image/恒定加速度的变化率.png",
