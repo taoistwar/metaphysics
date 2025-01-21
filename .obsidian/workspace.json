@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "f382463c21c8ad35",
+            "id": "9efaebdf3807c2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国学/船山遗书/船山遗书.md",
+                "file": "中医/解剖生理学/呼吸系统.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "船山遗书"
+              "title": "呼吸系统"
             }
           }
         ],
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "国学/船山遗书/船山遗书.md"
+                "file": "中医/解剖生理学/呼吸系统.md"
               },
               "icon": "lucide-list",
-              "title": "船山遗书 的大纲"
+              "title": "呼吸系统 的大纲"
             }
           },
           {
@@ -200,12 +200,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f382463c21c8ad35",
+  "active": "9efaebdf3807c2c4",
   "lastOpenFiles": [
     "国学/经济.md",
+    "中医/解剖生理学/呼吸系统.md",
+    "中医/解剖生理学/解剖生理学.md",
+    "国学/船山遗书/船山遗书.md",
+    "中医/解剖生理学",
     "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "国学/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
-    "国学/船山遗书/船山遗书.md",
     "国学/船山遗书",
     "国学/教育.md",
     "国学/视角.md",
@@ -229,7 +232,6 @@
     "丹道/经典/丹道.md",
     "国学/images",
     "国学/images/Pasted image 20240828094142.png",
-    "国学",
     "中医/中医基础理论/经络.md",
     "中医/中医基础理论/阴阳.md",
     "天纪/紫微斗数/北斗诸星/紫微.md",
@@ -238,7 +240,6 @@
     "中医/中医.md",
     "天纪/紫微斗数/紫微斗数-思维导图.md",
     "国学/书法/九宫格.md",
-    "国学/书法/书法.md",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/image/恒定加速度的变化率.png",
