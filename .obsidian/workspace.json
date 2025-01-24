@@ -4,41 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "62f820a26de52e5e",
+        "id": "897baddd4b511279",
         "type": "tabs",
         "children": [
           {
-            "id": "237d9c3fa632cc87",
+            "id": "845beecf0bc65204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "国学/经济.md",
+                "file": "术数/六壬/天算.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "经济"
+              "title": "天算"
             }
           },
           {
-            "id": "9efaebdf3807c2c4",
+            "id": "1f49e2a6ba3f0dfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中医/解剖生理学/呼吸系统.md",
+                "file": "术数/六壬/地支.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "呼吸系统"
+              "title": "地支"
+            }
+          },
+          {
+            "id": "de702193ccdd8cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/六壬/天干.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "天干"
+            }
+          },
+          {
+            "id": "b9d327267c73073d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/六壬/干支.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "干支"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中医/解剖生理学/呼吸系统.md"
+                "file": "术数/六壬/干支.md"
               },
               "icon": "lucide-list",
-              "title": "呼吸系统 的大纲"
+              "title": "干支 的大纲"
             }
           },
           {
@@ -181,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +231,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "9efaebdf3807c2c4",
+  "active": "b9d327267c73073d",
   "lastOpenFiles": [
-    "国学/经济.md",
+    "术数/六壬/天干.md",
+    "术数/六壬/地支.md",
+    "术数/六壬/天算.md",
+    "术数/六壬/干支.md",
+    "术数/六壬/小六壬神通.md",
+    "术数/六壬/六壬.md",
+    "国学/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
+    "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
+    "术数/周易/六十四卦.md",
+    "术数/周易/六十四卦/坤为地.md",
+    "术数/周易/六十四卦/乾为天.md",
+    "README.md",
+    "术数/术数.md",
+    "术数/六壬",
+    "国学/书法/古人如何写字.md",
     "中医/解剖生理学/呼吸系统.md",
+    "国学/经济.md",
     "中医/解剖生理学/解剖生理学.md",
     "国学/船山遗书/船山遗书.md",
     "中医/解剖生理学",
-    "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
-    "国学/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
     "国学/船山遗书",
     "国学/教育.md",
     "国学/视角.md",
@@ -219,7 +263,6 @@
     "南怀瑾/南禅七日/01..md",
     "南怀瑾/南禅七日",
     "南怀瑾",
-    "README.md",
     "玄学/南怀瑾.md",
     "玄学",
     "历史/西晋.md",
@@ -227,19 +270,7 @@
     "中医/针灸",
     "中医/拔罐/拔罐.md",
     "中医/拔罐",
-    "中医/中医基础理论/脏腑.md",
-    "中医/中医基础理论/五行.md",
-    "丹道/经典/丹道.md",
-    "国学/images",
     "国学/images/Pasted image 20240828094142.png",
-    "中医/中医基础理论/经络.md",
-    "中医/中医基础理论/阴阳.md",
-    "天纪/紫微斗数/北斗诸星/紫微.md",
-    "天纪/紫微斗数/星曜.md",
-    "中医/圆运动的古中医学/01. 圆运动的古中医学-原理篇.md",
-    "中医/中医.md",
-    "天纪/紫微斗数/紫微斗数-思维导图.md",
-    "国学/书法/九宫格.md",
     "电路原理/image/三极管的电路符号.png",
     "电路原理/image/三极管的图形符号.png",
     "电路原理/image/恒定加速度的变化率.png",
