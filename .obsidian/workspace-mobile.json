@@ -8,33 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2732be9328e29a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/南怀瑾.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f41a9b496273a0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "术数/八字/八字.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "八字"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
         }
       },
       {
@@ -65,7 +55,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
         }
       },
       {
@@ -76,7 +68,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
         }
       },
       {
@@ -88,7 +82,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
         }
       },
       {
@@ -96,7 +92,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
         }
       }
     ],
@@ -112,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "术数/八字/八字.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +118,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
         }
       },
       {
@@ -129,10 +129,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "术数/八字/八字.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "出链"
         }
       },
       {
@@ -141,8 +143,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
-          }
+            "file": "术数/八字/八字.md"
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
         }
       },
       {
@@ -150,7 +154,9 @@
         "type": "leaf",
         "state": {
           "type": "periodic-para",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
         }
       }
     ],
@@ -174,10 +180,40 @@
   },
   "active": "6f41a9b496273a0f",
   "lastOpenFiles": [
+    "README.md",
+    "术数/八字/八字.md",
+    "术数/八字",
+    "术数/六壬/第二章 大六壬的基础要素.md",
+    "术数/六壬/第三章 六壬课式的起法.md",
+    "术数/六壬/第一章 大六壬的优势.md",
+    "术数/六壬/images/f6fa1b32f92226c74b411a643436611c_MD5.png",
+    "术数/六壬/images/c27f2638312e111a802c29154143f4d3_MD5.png",
+    "术数/六壬/images/8312f371321f9e10d9a931f8867005d6_MD5.png",
+    "术数/六壬/images/6e451a2cbf548248d3ab4f7ee83d3ee0_MD5.png",
+    "术数/六壬/images/6d13224195337de7b786831895792946_MD5.png",
+    "术数/六壬/images/5db6e59bda6532d6ee247421c0b4b903_MD5.png",
+    "术数/六壬/images/279c17b75667dda9067888c028584031_MD5.png",
+    "术数/六壬/images/1fd20328cac9928278fbfc7fde303be4_MD5.png",
+    "术数/六壬/d6681d2bc4a3fd591d5a041bd0087b63_MD5.png",
+    "术数/六壬/d50c40879098094d634152bd2386eadc_MD5.png",
+    "/术数/六壬/第二章 大六壬的基础要素.md",
+    "/术数/六壬/第三章 六壬课式的起法.md",
+    "/术数/六壬/第一章 大六壬的优势.md",
+    "术数/玄学/干支.md",
+    "术数/玄学/天干.md",
+    "术数/玄学/地支.md",
+    "/术数/玄学/干支.md",
+    "/术数/玄学/天干.md",
+    "/术数/玄学/地支.md",
+    "南怀瑾/南怀瑾.md",
+    "/南怀瑾/南怀瑾.md",
+    "术数/玄学",
+    "术数/六壬/images",
+    "/术数/玄学",
+    "/术数/六壬/images",
     "国学/教育.md",
     "/国学/教育.md",
     "玄学/南怀瑾.md",
-    "README.md",
     "历史/西晋.md",
     "玄学",
     "中医/拔罐/拔罐.md",
@@ -188,37 +224,7 @@
     "道藏/道德经.md",
     "丹道/丹道.md",
     "丹道/清静经.md",
-    "丹道/太清元道眞經.md",
-    "丹道/大丹直指.md",
-    "/丹道/丹道.md",
-    "丹道/道藏.md",
-    "/丹道/清静经.md",
-    "/丹道/太清元道眞經.md",
-    "/丹道/大丹直指.md",
-    "/丹道/道藏.md",
     "丹道",
-    "/丹道",
-    "中医/中医基础理论/经络.md",
-    "/中医/中医基础理论/五行.md",
-    "中医/中医.md",
-    "国学/视角.md",
-    "国学/images/Pasted image 20240828094142.png",
-    "/国学/视角.md",
-    "/国学/images/Pasted image 20240828094142.png",
-    "国学/images",
-    "国学",
-    "/国学/images",
-    "/国学",
-    "天纪/紫微斗数/北斗诸星/陀罗.md",
-    "天纪/紫微斗数/北斗诸星/贪狼.md",
-    "中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
-    "中文汉语/书法/image/1665195044787.png",
-    "中文汉语/书法/image/1665195034585.png",
-    "中文汉语/书法/image/1665194736500.png",
-    "中文汉语/书法/image/1665194729547.png",
-    "中文汉语/书法/image/1665194529730.png",
-    "中文汉语/书法/image/1665194517658.png",
-    "/中文汉语/书法/九成宫醴泉铭/Pasted image 20240730100541.png",
-    "天纪/紫微斗数/北斗诸星"
+    "/丹道"
   ]
 }
