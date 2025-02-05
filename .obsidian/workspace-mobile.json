@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "7a06a2826915beef",
+        "id": "1fc638e00777a9f4",
         "type": "tabs",
         "children": [
           {
-            "id": "6f41a9b496273a0f",
+            "id": "92d1e8fb6e0b5c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/八字/八字.md",
+                "file": "中医/解剖生理学/解剖生理学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "八字"
+              "title": "解剖生理学"
+            }
+          },
+          {
+            "id": "f7a2669a9a13669f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "养生/小儿推拿.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小儿推拿"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,20 +159,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "术数/八字/八字.md"
+            "file": "养生/小儿推拿.md"
           },
           "icon": "lucide-list",
           "title": "大纲"
-        }
-      },
-      {
-        "id": "9a54e295e0d4c4df",
-        "type": "leaf",
-        "state": {
-          "type": "periodic-para",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "插件不再活动"
         }
       }
     ],
@@ -178,14 +184,29 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6f41a9b496273a0f",
+  "active": "f7a2669a9a13669f",
   "lastOpenFiles": [
-    "README.md",
+    "中医/解剖生理学/解剖生理学.md",
+    "养生/小儿推拿.md",
+    "中医/中医基础理论/藏象.md",
+    "中医/导引/打坐导引.md",
+    "中医/针灸/艾灸.md",
+    "丹道/经典/大丹直指.md",
+    "历史/北宋.md",
+    "历史/历史.md",
+    "术数/六壬/小六壬神通.md",
+    "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
+    "养生/吃.md",
+    "养生",
+    "术数/六壬/第一章 大六壬的优势.md",
+    "术数/六壬/2b960a5ee2c1489f606ea9de42e6e83a_MD5.png",
+    "术数/奇门遁甲/法奇门.md",
     "术数/八字/八字.md",
+    "术数/奇门遁甲",
+    "README.md",
     "术数/八字",
     "术数/六壬/第二章 大六壬的基础要素.md",
     "术数/六壬/第三章 六壬课式的起法.md",
-    "术数/六壬/第一章 大六壬的优势.md",
     "术数/六壬/images/f6fa1b32f92226c74b411a643436611c_MD5.png",
     "术数/六壬/images/c27f2638312e111a802c29154143f4d3_MD5.png",
     "术数/六壬/images/8312f371321f9e10d9a931f8867005d6_MD5.png",
@@ -195,7 +216,6 @@
     "术数/六壬/images/279c17b75667dda9067888c028584031_MD5.png",
     "术数/六壬/images/1fd20328cac9928278fbfc7fde303be4_MD5.png",
     "术数/六壬/d6681d2bc4a3fd591d5a041bd0087b63_MD5.png",
-    "术数/六壬/d50c40879098094d634152bd2386eadc_MD5.png",
     "/术数/六壬/第二章 大六壬的基础要素.md",
     "/术数/六壬/第三章 六壬课式的起法.md",
     "/术数/六壬/第一章 大六壬的优势.md",
@@ -206,25 +226,11 @@
     "/术数/玄学/天干.md",
     "/术数/玄学/地支.md",
     "南怀瑾/南怀瑾.md",
-    "/南怀瑾/南怀瑾.md",
     "术数/玄学",
     "术数/六壬/images",
     "/术数/玄学",
     "/术数/六壬/images",
-    "国学/教育.md",
-    "/国学/教育.md",
-    "玄学/南怀瑾.md",
-    "历史/西晋.md",
     "玄学",
-    "中医/拔罐/拔罐.md",
-    "/README.md",
-    "中医/针灸/艾灸.md",
-    "中医/针灸",
-    "中医/拔罐",
-    "道藏/道德经.md",
-    "丹道/丹道.md",
-    "丹道/清静经.md",
-    "丹道",
-    "/丹道"
+    "中医/针灸"
   ]
 }
