@@ -66,11 +66,32 @@
               "state": {
                 "file": "术数/六壬/第三章 六壬课式的起法.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "第三章 六壬课式的起法"
+            }
+          },
+          {
+            "id": "220cdb7ef44640a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -86,7 +107,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -105,7 +126,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -185,7 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术数/六壬/第三章 六壬课式的起法.md"
+                "file": "术数/六壬/第三章 六壬课式的起法.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "第三章 六壬课式的起法 的大纲"
@@ -248,7 +273,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "a4cd66329eb6eb97",
+  "active": "220cdb7ef44640a4",
   "lastOpenFiles": [
     "术数/八字/八字.md",
     "术数/八字",
