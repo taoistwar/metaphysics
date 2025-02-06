@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12ea293fcff70e44",
+        "id": "dd7b5c3dc9960fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b0724f795b9982c1",
+            "id": "125ae36ce7e59cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "奇门第1课"
+              "title": "02. 奇门起局"
             }
           },
           {
-            "id": "3d96b7f199d24cde",
+            "id": "f0a572e39ad4f5c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/河图.md",
+                "file": "术数/奇门/03. 奇门灭象.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "河图"
+              "title": "03. 奇门灭象"
             }
           },
           {
-            "id": "ee21fb5c01aa8f30",
+            "id": "14dc9c2881c0f662",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/天干.md",
+                "file": "术数/奇门/04. 奇门布阵.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,55 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "天干"
-            }
-          },
-          {
-            "id": "10a00e9134c78a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/五行.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "五行"
-            }
-          },
-          {
-            "id": "81da77e259452a2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/干支纪年.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "干支纪年"
+              "title": "04. 奇门布阵"
             }
           }
         ]
@@ -213,12 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "奇门第1课 的出链列表"
+              "title": "02. 奇门起局 的出链列表"
             }
           },
           {
@@ -227,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "奇门第1课 的大纲"
+              "title": "02. 奇门起局 的大纲"
             }
           },
           {
@@ -242,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +204,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "奇门第1课 的反向链接列表"
+              "title": "02. 奇门起局 的反向链接列表"
             }
           },
           {
@@ -270,12 +222,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,17 +246,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf26b19b598132b",
+  "active": "125ae36ce7e59cdf",
   "lastOpenFiles": [
+    "术数/奇门/03. 奇门灭象.md",
+    "术数/奇门/04. 奇门布阵.md",
+    "术数/奇门/01. 奇门概述.md",
+    "术数/奇门/02. 奇门起局.md",
+    "术数/奇门/八门.md",
+    "术数/奇门/九星.md",
+    "玄理/易理/天干.md",
+    "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
+    "玄理/易理/河图.md",
+    "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
     "术数/奇门/images",
     "术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
     "术数/术数.md",
-    "术数/奇门/奇门第1课.md",
     "术数/奇门",
     "玄理/易理/干支纪年.md",
     "玄理/易理/五行.md",
-    "玄理/易理/天干.md",
-    "玄理/易理/河图.md",
     "玄理/易理/九宫.md",
     "玄理/易理/地支.md",
     "术数/六壬/天算.md",
@@ -333,16 +291,9 @@
     "术数/六壬/images/5c1a18761e4590680560e75493c6a4f6_MD5.png",
     "术数/六壬/images/193e228a7adefac530de0e12b1c22d3c_MD5.png",
     "术数/六壬/images/5578e25676a708c8d3dc711b2c4114d4_MD5.png",
-    "术数/六壬/images/d50c40879098094d634152bd2386eadc_MD5.png",
-    "术数/六壬/images/cd708e792a19d208438d059976e0593b_MD5.png",
     "南怀瑾/南怀瑾.md",
     "术数/六壬/images",
-    "术数/六壬/第一章 大六壬的优势.md",
-    "术数/六壬/小六壬神通.md",
-    "术数/六壬/六壬.md",
-    "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "术数/六壬",
-    "中医/解剖生理学",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
