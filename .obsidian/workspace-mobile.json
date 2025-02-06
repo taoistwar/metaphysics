@@ -37,8 +37,7 @@
               "title": "小儿推拿"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,6 +169,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "templates:插入模板": false,
       "audio-recorder:开始/结束录音": false,
       "switcher:打开快速切换": false,
@@ -184,10 +184,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "65577c72d27e6592",
+  "active": "9042eb018502ee46",
   "lastOpenFiles": [
-    "术数/八字/八字.md",
     "养生/小儿推拿.md",
+    "术数/八字/八字.md",
     "中医/解剖生理学/解剖生理学.md",
     "中医/中医基础理论/藏象.md",
     "中医/导引/打坐导引.md",
