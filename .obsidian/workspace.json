@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "12ea293fcff70e44",
+        "id": "04ceb8cbf6c8e5b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b0724f795b9982c1",
+            "id": "e45428184d3fbdda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/八字/03. 八字正格.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,103 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "奇门第1课"
-            }
-          },
-          {
-            "id": "3d96b7f199d24cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/河图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "河图"
-            }
-          },
-          {
-            "id": "ee21fb5c01aa8f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/天干.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "天干"
-            }
-          },
-          {
-            "id": "10a00e9134c78a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/五行.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "五行"
-            }
-          },
-          {
-            "id": "81da77e259452a2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/干支纪年.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "干支纪年"
+              "title": "03. 八字正格"
             }
           }
         ]
@@ -197,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "right": {
     "id": "e909704c2c67d329",
@@ -213,12 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "奇门第1课 的出链列表"
+              "title": "02. 奇门起局 的出链列表"
             }
           },
           {
@@ -227,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/八字/03. 八字正格.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "奇门第1课 的大纲"
+              "title": "03. 八字正格 的大纲"
             }
           },
           {
@@ -242,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "术数/奇门/奇门第1课.md",
+                "file": "术数/奇门/02. 奇门起局.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +157,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "奇门第1课 的反向链接列表"
+              "title": "02. 奇门起局 的反向链接列表"
             }
           },
           {
@@ -270,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -295,19 +200,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdf26b19b598132b",
+  "active": "e45428184d3fbdda",
   "lastOpenFiles": [
+    "术数/八字/01. 八字概述.md",
+    "术数/八字/05. 八字神煞.md",
+    "玄理/易理/天干.md",
+    "玄理/易理/地支.md",
+    "术数/八字/04. 八字势局.md",
+    "术数/八字/03. 八字正格.md",
+    "术数/八字/生克同.excalidraw.md",
+    "术数/八字/02. 八字十神.md",
+    "玄功/引气入体.md",
+    "玄功",
+    "术数/八字/09. 八字旁参.md",
+    "术数/八字/十神.excalidraw.md",
+    "术数/奇门/02. 奇门起局.md",
+    "术数/奇门/03. 奇门灭象.md",
+    "术数/奇门/04. 奇门布阵.md",
+    "术数/奇门/01. 奇门概述.md",
+    "术数/奇门/八门.md",
+    "术数/奇门/九星.md",
+    "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
+    "玄理/易理/河图.md",
+    "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
     "术数/奇门/images",
     "术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
     "术数/术数.md",
-    "术数/奇门/奇门第1课.md",
     "术数/奇门",
     "玄理/易理/干支纪年.md",
     "玄理/易理/五行.md",
-    "玄理/易理/天干.md",
-    "玄理/易理/河图.md",
     "玄理/易理/九宫.md",
-    "玄理/易理/地支.md",
     "术数/六壬/天算.md",
     "术数/天纪.md",
     "README.md",
@@ -315,34 +237,17 @@
     "玄理/易理",
     "玄理",
     "术语",
-    "玄理/易理/洛书.md",
-    "玄理/易理/阴阳.md",
     "术数/六壬/images/d6681d2bc4a3fd591d5a041bd0087b63_MD5.png",
     "术数/六壬/images/ae82317b4a60e9a2732f17aee999b9db_MD5.png",
     "术数/六壬/images/2b960a5ee2c1489f606ea9de42e6e83a_MD5.png",
     "术数/六壬/Pasted image 20250124192609.png",
-    "术数/六壬/第二章 大六壬的基础要素.md",
-    "术数/六壬/第三章 六壬课式的起法.md",
     "术数/风水",
-    "养生/小儿推拿.md",
-    "养生/吃.md",
     "养生",
-    "中医/中医基础理论/藏象.md",
-    "术数/八字/八字.md",
     "术数/八字",
     "术数/六壬/images/5c1a18761e4590680560e75493c6a4f6_MD5.png",
     "术数/六壬/images/193e228a7adefac530de0e12b1c22d3c_MD5.png",
     "术数/六壬/images/5578e25676a708c8d3dc711b2c4114d4_MD5.png",
-    "术数/六壬/images/d50c40879098094d634152bd2386eadc_MD5.png",
-    "术数/六壬/images/cd708e792a19d208438d059976e0593b_MD5.png",
-    "南怀瑾/南怀瑾.md",
     "术数/六壬/images",
-    "术数/六壬/第一章 大六壬的优势.md",
-    "术数/六壬/小六壬神通.md",
-    "术数/六壬/六壬.md",
-    "国学/书法/九成宫醴泉铭/九成宫醴泉铭.md",
-    "术数/六壬",
-    "中医/解剖生理学",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
