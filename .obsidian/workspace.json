@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "03. 八字正格"
             }
+          },
+          {
+            "id": "165260eacab27b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄理/易理/干支纪年.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "干支纪年"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "right": {
     "id": "e909704c2c67d329",
@@ -200,14 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e45428184d3fbdda",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
+    "术数/八字/03. 八字正格.md",
     "术数/八字/01. 八字概述.md",
     "术数/八字/05. 八字神煞.md",
     "玄理/易理/天干.md",
     "玄理/易理/地支.md",
     "术数/八字/04. 八字势局.md",
-    "术数/八字/03. 八字正格.md",
     "术数/八字/生克同.excalidraw.md",
     "术数/八字/02. 八字十神.md",
     "玄功/引气入体.md",
