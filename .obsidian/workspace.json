@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/干支纪年.md",
+                "file": "玄理/易理/气.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "干支纪年"
+              "title": "气"
             }
           }
         ],
@@ -224,8 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "165260eacab27b7b",
   "lastOpenFiles": [
+    "玄理/易理/干支纪年.md",
+    "玄理/易理/气.md",
     "术数/八字/03. 八字正格.md",
     "术数/八字/01. 八字概述.md",
     "术数/八字/05. 八字神煞.md",
@@ -251,13 +253,11 @@
     "术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
     "术数/术数.md",
     "术数/奇门",
-    "玄理/易理/干支纪年.md",
     "玄理/易理/五行.md",
     "玄理/易理/九宫.md",
     "术数/六壬/天算.md",
     "术数/天纪.md",
     "README.md",
-    "玄理/易理/八卦.md",
     "玄理/易理",
     "玄理",
     "术语",
