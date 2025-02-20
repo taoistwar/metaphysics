@@ -152,6 +152,30 @@
             }
           },
           {
+            "id": "1daf5a067330942b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/09. 八字旁参.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "09. 八字旁参"
+            }
+          },
+          {
             "id": "460280b93a8cbbda",
             "type": "leaf",
             "state": {
@@ -200,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -358,17 +382,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0734feb3e99f31d0",
+  "active": "1daf5a067330942b",
   "lastOpenFiles": [
+    "术数/八字/08. 八字排盘.md",
+    "术数/八字/09. 八字旁参.md",
+    "术数/八字/05. 八字神煞.md",
     "术数/八字/07. 八字大运流年.md",
     "术数/八字/02. 八字势局.md",
     "术数/八字/04. 八字十神.md",
-    "术数/八字/05. 八字神煞.md",
     "术数/八字/06. 八字地势.md",
     "玄理/易理/八卦.md",
     "养生/吃.md",
     "养生/小儿推拿.md",
-    "术数/八字/08. 八字排盘.md",
     "README.md",
     "/玄理/易理/气.md",
     "玄理/易理/气.md",
@@ -384,7 +409,6 @@
     "术数/奇门/01. 奇门概述.md",
     "术数/八字/生克同.excalidraw.md",
     "术数/八字/十神.excalidraw.md",
-    "术数/八字/09. 八字旁参.md",
     "术数/八字/03. 八字正格.md",
     "术数/八字/01. 八字概述.md",
     "/玄理/易理/天干.md",
