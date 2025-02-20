@@ -146,7 +146,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,8 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bec303839340bd9",
+  "active": "cc8540b919f4ee67",
   "lastOpenFiles": [
+    "术数/八字/07. 八字大运流年.md",
+    "术数/八字/06. 八字地势.md",
+    "术数/八字/04. 八字十神.md",
+    "术数/八字/02. 八字势局.md",
     "术数/八字/03. 八字正格.md",
     "术数/八字/08. 八字排盘.md",
     "术数/八字/05. 八字神煞.md",
@@ -276,13 +281,10 @@
     "术数/奇门/八门.md",
     "术数/奇门/九星.md",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
-    "玄理/易理/河图.md",
     "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
     "术数/奇门/images",
     "术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
-    "术数/术数.md",
     "术数/奇门",
-    "玄理/易理/五行.md",
     "玄理/易理",
     "玄理",
     "术语",
