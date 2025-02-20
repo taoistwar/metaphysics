@@ -30,8 +30,177 @@
               "icon": "lucide-file",
               "title": "08. 八字排盘"
             }
+          },
+          {
+            "id": "b9f07ff292b9b9d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "养生/小儿推拿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "小儿推拿"
+            }
+          },
+          {
+            "id": "108959bf77b4cada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "养生/吃.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "吃"
+            }
+          },
+          {
+            "id": "d1fb0e0928535181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄理/易理/八卦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "八卦"
+            }
+          },
+          {
+            "id": "ee6ac39191c4e11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/06. 八字地势.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06. 八字地势"
+            }
+          },
+          {
+            "id": "0734feb3e99f31d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/05. 八字神煞.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "05. 八字神煞"
+            }
+          },
+          {
+            "id": "460280b93a8cbbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/07. 八字大运流年.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "07. 八字大运流年"
+            }
+          },
+          {
+            "id": "ea29fed42853824c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/04. 八字十神.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04. 八字十神"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,16 +358,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "36b5db052d1b660b",
+  "active": "0734feb3e99f31d0",
   "lastOpenFiles": [
-    "README.md",
+    "术数/八字/07. 八字大运流年.md",
+    "术数/八字/02. 八字势局.md",
+    "术数/八字/04. 八字十神.md",
+    "术数/八字/05. 八字神煞.md",
+    "术数/八字/06. 八字地势.md",
+    "玄理/易理/八卦.md",
+    "养生/吃.md",
+    "养生/小儿推拿.md",
     "术数/八字/08. 八字排盘.md",
+    "README.md",
     "/玄理/易理/气.md",
     "玄理/易理/气.md",
     "/玄理/易理",
     "/玄理",
     "中医/中医基础理论/长夏.md",
-    "养生/小儿推拿.md",
     "中医/中医基础理论/藏象.md",
     "玄功/引气入体.md",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
@@ -209,20 +385,13 @@
     "术数/八字/生克同.excalidraw.md",
     "术数/八字/十神.excalidraw.md",
     "术数/八字/09. 八字旁参.md",
-    "术数/八字/05. 八字神煞.md",
-    "术数/八字/04. 八字势局.md",
     "术数/八字/03. 八字正格.md",
-    "术数/八字/02. 八字十神.md",
     "术数/八字/01. 八字概述.md",
     "/玄理/易理/天干.md",
     "/玄理/易理/地支.md",
     "/玄功/引气入体.md",
     "/术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
     "/术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
-    "/术数/奇门/03. 奇门灭象.md",
-    "/术数/奇门/02. 奇门起局.md",
-    "/术数/奇门/01. 奇门概述.md",
-    "/术数/八字/生克同.excalidraw.md",
     "玄功",
     "/玄功",
     "南怀瑾/南禅七日/南禅七日01-02文字版.pdf",
