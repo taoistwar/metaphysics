@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "1bec303839340bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/八字/01. 八字概述.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "01. 八字概述"
+            }
+          },
+          {
             "id": "165260eacab27b7b",
             "type": "leaf",
             "state": {
@@ -156,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术数/八字/03. 八字正格.md",
+                "file": "术数/八字/01. 八字概述.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03. 八字正格 的大纲"
+              "title": "01. 八字概述 的大纲"
             }
           },
           {
@@ -203,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,18 +247,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "165260eacab27b7b",
+  "active": "1bec303839340bd9",
   "lastOpenFiles": [
-    "玄理/易理/干支纪年.md",
-    "玄理/易理/气.md",
     "术数/八字/03. 八字正格.md",
-    "术数/八字/01. 八字概述.md",
+    "术数/八字/08. 八字排盘.md",
     "术数/八字/05. 八字神煞.md",
+    "术数/八字/01. 八字概述.md",
+    "术数/八字/02. 八字十神.md",
+    "术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
+    "术数/八字/images",
+    "玄理/易理/干支纪年.md",
+    "术数/八字/7e026d1379fda7a3d3b42dededafc9c6_MD5.png",
+    "玄理/易理/气.md",
+    "中医/中医基础理论/长夏.md",
+    "README.md",
     "玄理/易理/天干.md",
     "玄理/易理/地支.md",
     "术数/八字/04. 八字势局.md",
     "术数/八字/生克同.excalidraw.md",
-    "术数/八字/02. 八字十神.md",
     "玄功/引气入体.md",
     "玄功",
     "术数/八字/09. 八字旁参.md",
@@ -254,10 +283,6 @@
     "术数/术数.md",
     "术数/奇门",
     "玄理/易理/五行.md",
-    "玄理/易理/九宫.md",
-    "术数/六壬/天算.md",
-    "术数/天纪.md",
-    "README.md",
     "玄理/易理",
     "玄理",
     "术语",
@@ -269,9 +294,6 @@
     "养生",
     "术数/八字",
     "术数/六壬/images/5c1a18761e4590680560e75493c6a4f6_MD5.png",
-    "术数/六壬/images/193e228a7adefac530de0e12b1c22d3c_MD5.png",
-    "术数/六壬/images/5578e25676a708c8d3dc711b2c4114d4_MD5.png",
-    "术数/六壬/images",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
