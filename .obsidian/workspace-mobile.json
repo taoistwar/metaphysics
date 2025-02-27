@@ -4,83 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f03d360f5bee7cd",
+        "id": "5e170a0d7296e50e",
         "type": "tabs",
         "children": [
           {
-            "id": "36b5db052d1b660b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/八字/08. 八字排盘.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08. 八字排盘"
-            }
-          },
-          {
-            "id": "b9f07ff292b9b9d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "养生/小儿推拿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "小儿推拿"
-            }
-          },
-          {
-            "id": "108959bf77b4cada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "养生/吃.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "吃"
-            }
-          },
-          {
-            "id": "d1fb0e0928535181",
+            "id": "2e01d01d65611747",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,12 +32,12 @@
             }
           },
           {
-            "id": "ee6ac39191c4e11c",
+            "id": "23add6531c534dbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/八字/06. 八字地势.md",
+                "file": "玄理/易理/干支纪年.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06. 八字地势"
+              "title": "干支纪年"
             }
           },
           {
-            "id": "0734feb3e99f31d0",
+            "id": "19d3243c18c28423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/八字/05. 八字神煞.md",
+                "file": "玄理/易理/星系.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,227 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "05. 八字神煞"
-            }
-          },
-          {
-            "id": "1daf5a067330942b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/八字/09. 八字旁参.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "09. 八字旁参"
-            }
-          },
-          {
-            "id": "e0e8b905147fd53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/易经.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "易经"
-            }
-          },
-          {
-            "id": "e82009e2eb7676bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/四象.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": true,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "四象"
-            }
-          },
-          {
-            "id": "198c460a7862b0ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/河图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "河图"
-            }
-          },
-          {
-            "id": "3c3ae9fb659b195b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "国学/教育.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "教育"
-            }
-          },
-          {
-            "id": "b925b82d3ccb2629",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/皇帝四经/皇帝四经.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "皇帝四经"
-            }
-          },
-          {
-            "id": "2b0741ccdc0a2ecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/洛书.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "洛书"
-            }
-          },
-          {
-            "id": "460280b93a8cbbda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/八字/07. 八字大运流年.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "07. 八字大运流年"
-            }
-          },
-          {
-            "id": "ea29fed42853824c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/八字/04. 八字十神.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04. 八字十神"
+              "title": "星系"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -526,8 +238,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b925b82d3ccb2629",
+  "active": "19d3243c18c28423",
   "lastOpenFiles": [
+    "玄理/易理/历法.md",
+    "玄理/易理/星系.md",
+    "玄理/易理/干支纪年.md",
+    "玄理/易理/八卦.md",
+    "术数/八字/04. 八字十神.md",
+    "术数/八字/07. 八字大运流年.md",
+    "玄理/易理/洛书.md",
+    "术数/八字/05. 八字神煞.md",
+    "术数/八字/06. 八字地势.md",
+    "术数/八字/09. 八字旁参.md",
+    "玄理/皇帝四经/皇帝四经.md",
+    "玄理/雷霆玄论/雷霆玄论.md",
+    "/玄理/雷霆玄论/雷霆玄论.md",
+    "/玄理/雷霆玄论",
+    "玄理/雷霆玄论",
+    "/玄理",
     "国学/教育.md",
     "玄理/皇帝四经/道原/道原.md",
     "玄理/皇帝四经/经法/09. 名理.md",
@@ -540,20 +268,7 @@
     "玄理/皇帝四经/经法/02. 国次.md",
     "玄理/皇帝四经/经法/01. 道法.md",
     "玄理/皇帝四经/称/称.md",
-    "玄理/皇帝四经/皇帝四经.md",
     "玄理/皇帝四经/十大经/15. 名刑.md",
-    "玄理/皇帝四经/十大经/14. 顺道.md",
-    "玄理/皇帝四经/十大经/13. 行守.md",
-    "玄理/皇帝四经/十大经/12. 前道.md",
-    "玄理/皇帝四经/十大经/11. 本伐.md",
-    "玄理/皇帝四经/十大经/10. 三禁.md",
-    "玄理/皇帝四经/十大经/09. 成法.md",
-    "玄理/皇帝四经/十大经/08. 兵容.md",
-    "玄理/皇帝四经/十大经/07. 雌雄节.md",
-    "玄理/皇帝四经/十大经/06. 姓争.md",
-    "玄理/皇帝四经/十大经/05. 正乱.md",
-    "玄理/皇帝四经/十大经/04. 果童.md",
-    "玄理/皇帝四经/十大经/03. 五正.md",
     "玄理/皇帝四经/道原",
     "玄理/皇帝四经/经法",
     "玄理/皇帝四经/称",
@@ -561,9 +276,6 @@
     "玄理/皇帝四经",
     "/玄理/皇帝四经/道原",
     "/玄理/皇帝四经/经法",
-    "/玄理/皇帝四经/称",
-    "/玄理/皇帝四经/十大经",
-    "/玄理/皇帝四经",
     "术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "/术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
