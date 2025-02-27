@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e170a0d7296e50e",
+        "id": "9b8feb67fb4d3c21",
         "type": "tabs",
         "children": [
           {
-            "id": "2e01d01d65611747",
+            "id": "9cc16b67968318e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/八卦.md",
+                "file": "玄理/易理/天干.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "八卦"
-            }
-          },
-          {
-            "id": "23add6531c534dbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/干支纪年.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "干支纪年"
-            }
-          },
-          {
-            "id": "19d3243c18c28423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/星系.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "星系"
+              "title": "天干"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,11 +189,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19d3243c18c28423",
+  "active": "9cc16b67968318e8",
   "lastOpenFiles": [
-    "玄理/易理/历法.md",
-    "玄理/易理/星系.md",
     "玄理/易理/干支纪年.md",
+    "玄理/易理/星系.md",
+    "玄理/易理/历法.md",
     "玄理/易理/八卦.md",
     "术数/八字/04. 八字十神.md",
     "术数/八字/07. 八字大运流年.md",
