@@ -30,8 +30,69 @@
               "icon": "lucide-file",
               "title": "天干"
             }
+          },
+          {
+            "id": "16ce153ad2a33d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄理/易理/五行.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "五行"
+            }
+          },
+          {
+            "id": "4bf4caa12cd9104b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/紫微斗数/紫微斗数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "紫微斗数"
+            }
+          },
+          {
+            "id": "4d510e63f3ed4389",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "术数/紫微斗数/紫微斗数-思维导图.md"
+              },
+              "icon": "blocks",
+              "title": "紫微斗数-思维导图"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,8 +250,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9cc16b67968318e8",
+  "active": "4d510e63f3ed4389",
   "lastOpenFiles": [
+    "术数/紫微斗数/紫微斗数.md",
+    "玄理/易理/五行.md",
+    "玄理/易理/天干.md",
     "玄理/易理/干支纪年.md",
     "玄理/易理/星系.md",
     "玄理/易理/历法.md",
@@ -217,9 +281,6 @@
     "玄理/皇帝四经/经法/04. 六分.md",
     "玄理/皇帝四经/经法/03. 君正.md",
     "玄理/皇帝四经/经法/02. 国次.md",
-    "玄理/皇帝四经/经法/01. 道法.md",
-    "玄理/皇帝四经/称/称.md",
-    "玄理/皇帝四经/十大经/15. 名刑.md",
     "玄理/皇帝四经/道原",
     "玄理/皇帝四经/经法",
     "玄理/皇帝四经/称",
