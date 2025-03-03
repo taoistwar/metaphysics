@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/雷霆玄论/雷霆玄论.md",
+                "file": "玄理/术语/历法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "雷霆玄论"
+              "title": "历法"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:历法",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄理/雷霆玄论/雷霆玄论.md",
+                "file": "玄理/术语/历法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "雷霆玄论 的大纲"
+              "title": "历法 的大纲"
             }
           },
           {
@@ -200,8 +200,16 @@
   },
   "active": "e02e03c3c9ce5021",
   "lastOpenFiles": [
-    "玄理/皇帝四经/皇帝四经.md",
+    "玄理/易理/星系.md",
+    "玄理/术语/历法.md",
+    "玄理/易经/阴阳.md",
+    "玄理/易经/易经.md",
+    "玄理/易经/五行.md",
     "玄理/雷霆玄论/雷霆玄论.md",
+    "玄理/术语",
+    "玄理/易理",
+    "玄理/易经/八卦.md",
+    "玄理/皇帝四经/皇帝四经.md",
     "玄理/皇帝四经/经法/01. 道法.md",
     "玄理/皇帝四经/经法/02. 国次.md",
     "玄理/皇帝四经/经法/03. 君正.md",
@@ -220,12 +228,6 @@
     "玄理/皇帝四经/十大经/06. 姓争.md",
     "玄理/皇帝四经/十大经/07. 雌雄节.md",
     "玄理/皇帝四经/十大经/08. 兵容.md",
-    "玄理/皇帝四经/十大经/09. 成法.md",
-    "玄理/皇帝四经/十大经/10. 三禁.md",
-    "玄理/皇帝四经/十大经/11. 本伐.md",
-    "玄理/皇帝四经/十大经/12. 前道.md",
-    "玄理/皇帝四经/十大经/13. 行守.md",
-    "玄理/皇帝四经/十大经/14. 顺道.md",
     "玄理/雷霆玄论",
     "玄理/皇帝四经/道原",
     "玄理/皇帝四经/称",
@@ -238,9 +240,7 @@
     "玄功",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
     "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
-    "术数/奇门/images",
     "术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
-    "术数/奇门",
     "术数/六壬/images/d6681d2bc4a3fd591d5a041bd0087b63_MD5.png",
     "术数/六壬/images/ae82317b4a60e9a2732f17aee999b9db_MD5.png",
     "术数/六壬/images/2b960a5ee2c1489f606ea9de42e6e83a_MD5.png",
