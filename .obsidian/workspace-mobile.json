@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5e170a0d7296e50e",
+        "id": "9b8feb67fb4d3c21",
         "type": "tabs",
         "children": [
           {
-            "id": "2e01d01d65611747",
+            "id": "9cc16b67968318e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/八卦.md",
+                "file": "玄理/易理/天干.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "八卦"
+              "title": "天干"
             }
           },
           {
-            "id": "23add6531c534dbc",
+            "id": "16ce153ad2a33d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/干支纪年.md",
+                "file": "玄理/易理/五行.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "干支纪年"
+              "title": "五行"
             }
           },
           {
-            "id": "19d3243c18c28423",
+            "id": "4bf4caa12cd9104b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/易理/星系.md",
+                "file": "术数/紫微斗数/紫微斗数.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "星系"
+              "title": "紫微斗数"
+            }
+          },
+          {
+            "id": "4d510e63f3ed4389",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "术数/紫微斗数/紫微斗数-思维导图.md"
+              },
+              "icon": "blocks",
+              "title": "紫微斗数-思维导图"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,11 +250,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "19d3243c18c28423",
+  "active": "4d510e63f3ed4389",
   "lastOpenFiles": [
-    "玄理/易理/历法.md",
-    "玄理/易理/星系.md",
+    "术数/紫微斗数/紫微斗数.md",
+    "玄理/易理/五行.md",
+    "玄理/易理/天干.md",
     "玄理/易理/干支纪年.md",
+    "玄理/易理/星系.md",
+    "玄理/易理/历法.md",
     "玄理/易理/八卦.md",
     "术数/八字/04. 八字十神.md",
     "术数/八字/07. 八字大运流年.md",
@@ -266,9 +281,6 @@
     "玄理/皇帝四经/经法/04. 六分.md",
     "玄理/皇帝四经/经法/03. 君正.md",
     "玄理/皇帝四经/经法/02. 国次.md",
-    "玄理/皇帝四经/经法/01. 道法.md",
-    "玄理/皇帝四经/称/称.md",
-    "玄理/皇帝四经/十大经/15. 名刑.md",
     "玄理/皇帝四经/道原",
     "玄理/皇帝四经/经法",
     "玄理/皇帝四经/称",
