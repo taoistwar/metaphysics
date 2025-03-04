@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3be85c8691efc7ff",
+        "id": "1d00766a67c8f673",
         "type": "tabs",
         "children": [
           {
-            "id": "e02e03c3c9ce5021",
+            "id": "3c28c245b9657a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/术语/历法.md",
+                "file": "术数/紫微斗数/星矅/紫微星.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,40 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "历法"
+              "title": "紫微星"
             }
           },
           {
-            "id": "e6988d03de7ea65c",
+            "id": "80cd2233ef0567b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄理/术语/八卦.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "八卦"
-            }
-          },
-          {
-            "id": "60ccee7ef5ffe337",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/紫微斗数/星矅/七杀星.md",
+                "file": "术数/紫微斗数/星矅/杀破狼/七杀星.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +56,55 @@
             }
           },
           {
-            "id": "b2a3a237b715b525",
+            "id": "a995d64a1d9fee0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/紫微斗数/星矅/武曲星.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "武曲星"
+            }
+          },
+          {
+            "id": "19e555974465a18b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "术数/紫微斗数/星矅/杀破狼/破军星.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "破军星"
+            }
+          },
+          {
+            "id": "f2fe9814d7ef3cb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -102,57 +126,9 @@
               "icon": "lucide-file",
               "title": "天府星"
             }
-          },
-          {
-            "id": "edee56a0e6ed1189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1019a05f756cf55f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/紫微斗数/星矅/天同星.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "天同星"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "术数/紫微斗数/星矅/七杀星.md",
+                "file": "术数/紫微斗数/星矅/杀破狼/七杀星.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -319,37 +295,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60ccee7ef5ffe337",
+  "active": "80cd2233ef0567b9",
   "lastOpenFiles": [
-    "README.md",
+    "术数/紫微斗数/星矅/紫微星.md",
+    "术数/紫微斗数/星矅/杀破狼/贪狼星.md",
+    "术数/紫微斗数/星矅/武曲星.md",
+    "术数/紫微斗数/星矅/杀破狼/破军星.md",
+    "术数/紫微斗数/星矅/杀破狼/七杀星.md",
     "术数/紫微斗数/星矅/天府星.md",
-    "术数/紫微斗数/星矅/七杀星.md",
-    "玄理/术语/八卦.md",
+    "术数/紫微斗数/星矅/杀破狼",
+    "术数/紫微斗数/北斗诸星/右弼.md",
+    "术数/紫微斗数/北斗诸星/武曲.md",
+    "术数/紫微斗数/北斗诸星/左辅.md",
+    "术数/紫微斗数/北斗诸星/文曲.md",
+    "术数/紫微斗数/北斗诸星/陀罗.md",
+    "术数/紫微斗数/北斗诸星/擎羊.md",
+    "术数/紫微斗数/北斗诸星/贪狼.md",
+    "术数/紫微斗数/北斗诸星/破军.md",
+    "术数/紫微斗数/北斗诸星/廉贞.md",
+    "术数/紫微斗数/北斗诸星/巨门.md",
+    "术数/紫微斗数/北斗诸星/禄存.md",
     "术数/紫微斗数/星矅/天梁星.md",
+    "术数/紫微斗数/星矅/廉贞星.md",
+    "术数/紫微斗数/星矅/太阴星.md",
+    "术数/紫微斗数/星矅/北帝星.md",
+    "README.md",
+    "玄理/术语/八卦.md",
     "术数/紫微斗数/星矅/天同星.md",
     "术数/紫微斗数/紫微斗数.md",
     "术数/紫微斗数/星矅",
     "玄理/术语/历法.md",
-    "玄理/易理/星系.md",
-    "玄理/术语/阴阳.md",
-    "玄理/易经/易经.md",
-    "玄理/术语/五行.md",
-    "玄理/雷霆玄论/雷霆玄论.md",
     "玄理/术语",
     "玄理/易理",
-    "玄理/皇帝四经/皇帝四经.md",
-    "玄理/皇帝四经/经法/01. 道法.md",
-    "玄理/皇帝四经/经法/02. 国次.md",
-    "玄理/皇帝四经/经法/03. 君正.md",
-    "玄理/皇帝四经/经法/04. 六分.md",
-    "玄理/皇帝四经/经法/05. 四度.md",
-    "玄理/皇帝四经/经法/06. 论.md",
-    "玄理/皇帝四经/经法/07. 亡论.md",
-    "玄理/皇帝四经/经法/08. 论约.md",
-    "玄理/皇帝四经/经法/09. 名理.md",
-    "玄理/皇帝四经/十大经/01. 立命.md",
-    "玄理/皇帝四经/经法/未命名.md",
-    "玄理/皇帝四经/十大经/02. 观.md",
     "玄理/雷霆玄论",
     "玄理/皇帝四经/道原",
     "玄理/皇帝四经/称",
@@ -357,7 +334,6 @@
     "玄理/皇帝四经/经法",
     "玄理/皇帝四经",
     "术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
-    "术数/八字/images",
     "术数/八字/7e026d1379fda7a3d3b42dededafc9c6_MD5.png",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
     "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
