@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8feb67fb4d3c21",
+        "id": "c3420e01b78c52d7",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc16b67968318e8",
+            "id": "93fddf8edb82b5e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/天干.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "天干"
-            }
-          },
-          {
-            "id": "16ce153ad2a33d8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/易理/五行.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "五行"
-            }
-          },
-          {
-            "id": "4bf4caa12cd9104b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/紫微斗数/紫微斗数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "紫微斗数"
-            }
-          },
-          {
-            "id": "4d510e63f3ed4389",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapView",
-              "state": {
-                "file": "术数/紫微斗数/紫微斗数-思维导图.md"
-              },
-              "icon": "blocks",
-              "title": "紫微斗数-思维导图"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,44 +175,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "4d510e63f3ed4389",
+  "active": "93fddf8edb82b5e7",
   "lastOpenFiles": [
+    "术数/紫微斗数/星矅/廉贞星.md",
     "术数/紫微斗数/紫微斗数.md",
-    "玄理/易理/五行.md",
-    "玄理/易理/天干.md",
-    "玄理/易理/干支纪年.md",
-    "玄理/易理/星系.md",
-    "玄理/易理/历法.md",
-    "玄理/易理/八卦.md",
-    "术数/八字/04. 八字十神.md",
-    "术数/八字/07. 八字大运流年.md",
-    "玄理/易理/洛书.md",
-    "术数/八字/05. 八字神煞.md",
-    "术数/八字/06. 八字地势.md",
-    "术数/八字/09. 八字旁参.md",
-    "玄理/皇帝四经/皇帝四经.md",
-    "玄理/雷霆玄论/雷霆玄论.md",
-    "/玄理/雷霆玄论/雷霆玄论.md",
-    "/玄理/雷霆玄论",
-    "玄理/雷霆玄论",
+    "术数/紫微斗数/星矅/天府星.md",
+    "术数/紫微斗数/星矅/七杀星.md",
+    "术数/紫微斗数/星矅/北帝星.md",
+    "术数/紫微斗数/星矅/太阴星.md",
+    "术数/紫微斗数/星矅/天同星.md",
+    "玄理/术语/地支.md",
+    "玄理/术语/干支纪年.md",
+    "/玄理/术语/地支.md",
+    "玄理/术语/历法.md",
+    "玄理/术语/八卦.md",
+    "玄理/术语/九宫.md",
+    "术数/紫微斗数/星矅/天梁星.md",
+    "玄理/术语/阴阳.md",
+    "玄理/术语/洛书.md",
+    "玄理/术语/河图.md",
+    "玄理/术语/气.md",
+    "/玄理/术语/干支纪年.md",
+    "玄理/术语/天干.md",
+    "玄理/术语/四象.md",
+    "/玄理/术语/历法.md",
+    "/玄理/术语/八卦.md",
+    "玄理/术语/五行.md",
+    "/玄理/术语/九宫.md",
+    "玄理/易经/易经.md",
+    "玄理/术语",
+    "玄理/易经",
+    "/玄理/术语",
+    "/玄理/易经",
+    "/术数/紫微斗数/星矅",
+    "术数/紫微斗数/星矅",
+    "/术数/紫微斗数",
+    "/术数",
+    "/玄理/易理",
     "/玄理",
-    "国学/教育.md",
-    "玄理/皇帝四经/道原/道原.md",
-    "玄理/皇帝四经/经法/09. 名理.md",
-    "玄理/皇帝四经/经法/08. 论约.md",
-    "玄理/皇帝四经/经法/07. 亡论.md",
-    "玄理/皇帝四经/经法/06. 论.md",
-    "玄理/皇帝四经/经法/05. 四度.md",
-    "玄理/皇帝四经/经法/04. 六分.md",
-    "玄理/皇帝四经/经法/03. 君正.md",
-    "玄理/皇帝四经/经法/02. 国次.md",
-    "玄理/皇帝四经/道原",
-    "玄理/皇帝四经/经法",
-    "玄理/皇帝四经/称",
-    "玄理/皇帝四经/十大经",
-    "玄理/皇帝四经",
-    "/玄理/皇帝四经/道原",
-    "/玄理/皇帝四经/经法",
     "术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "/术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
