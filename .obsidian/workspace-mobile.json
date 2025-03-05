@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "397a000601192f9d",
+        "id": "a33f78579558c226",
         "type": "tabs",
         "children": [
           {
-            "id": "0c84f3e0a6f9180e",
+            "id": "1c4a25135a348e43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "术数/紫微斗数/星矅/太阴星.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "太阴星"
-            }
-          },
-          {
-            "id": "f807f19dcdd0f780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/术语/地支.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "地支"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +175,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f807f19dcdd0f780",
+  "active": "1c4a25135a348e43",
   "lastOpenFiles": [
+    "术数/紫微斗数/派别.md",
+    "术数/紫微斗数/身宫.md",
+    "术数/紫微斗数/宫位.md",
+    "术数/紫微斗数/星曜.md",
+    "术数/紫微斗数/命盘.md",
+    "玄理/术语/地支.md",
     "术数/紫微斗数/星矅/太阴星.md",
     "术数/紫微斗数/星矅/紫微星.md",
     "/术数/紫微斗数/星矅/紫微星.md",
@@ -242,12 +209,6 @@
     "术数/紫微斗数/星矅/七杀星.md",
     "术数/紫微斗数/星矅/北帝星.md",
     "术数/紫微斗数/星矅/天同星.md",
-    "玄理/术语/地支.md",
-    "玄理/术语/干支纪年.md",
-    "/玄理/术语/地支.md",
-    "玄理/术语/历法.md",
-    "玄理/术语/八卦.md",
-    "玄理/术语/九宫.md",
     "玄理/术语",
     "玄理/易经",
     "/玄理/术语",
