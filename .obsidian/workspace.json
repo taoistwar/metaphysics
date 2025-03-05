@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a545e7a3e3a0fecf",
+        "id": "7844c88520990a30",
         "type": "tabs",
         "children": [
           {
-            "id": "efb9d67c453fe6a3",
+            "id": "33486d15975122aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/紫微斗数/星矅/紫微星.md",
+                "file": "术数/紫微斗数/宫位.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "紫微星"
-            }
-          },
-          {
-            "id": "876b41925c455f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/术语/天干.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "天干"
-            }
-          },
-          {
-            "id": "262cc68657470237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/术语/地支.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "地支"
-            }
-          },
-          {
-            "id": "f337e881b6c30b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄理/术语/历法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "历法"
+              "title": "宫位"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄理/术语/地支.md",
+                "file": "术数/紫微斗数/宫位.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "地支 的大纲"
+              "title": "宫位 的大纲"
             }
           },
           {
@@ -271,16 +198,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "262cc68657470237",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
-    "玄理/术语/历法.md",
     "玄理/术语/地支.md",
+    "玄理/术语/历法.md",
+    "术数/紫微斗数/星矅/紫微星.md",
     "玄理/术语/天干.md",
     "玄理/术语/五行.md",
     "玄理/术语/阴阳.md",
     "玄理/术语/九宫.md",
     "玄理/术语/河图.md",
-    "术数/紫微斗数/星矅/紫微星.md",
     "术数/紫微斗数/星矅/星矅.md",
     "术数/术数.md",
     "玄理/术语/八卦.md",
