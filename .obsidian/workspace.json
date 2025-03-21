@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c8a967d78a9ca7dd",
+        "id": "5219574f749b5978",
         "type": "tabs",
         "children": [
           {
-            "id": "d8ecf4d915a6d2e1",
+            "id": "748e1e6500bc9b57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "玄学/玄功/拉伸/拉伸.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "拉伸"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1665194529730",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +97,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -118,12 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "玄学/玄功/拉伸/拉伸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "拉伸 的大纲"
             }
           },
           {
@@ -184,8 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc8540b919f4ee67",
+  "active": "748e1e6500bc9b57",
   "lastOpenFiles": [
+    "玄学/玄功/拉伸/拉伸.md",
+    "玄学/玄功/拉伸",
     "国学/中文",
     "国学/中文/汉字/并/竝.md",
     "国学/中文/汉字/并/幷.md",
@@ -223,8 +239,6 @@
     "玄学/术数/紫微斗数/星矅",
     "玄学/术语",
     "玄理/易理",
-    "玄学/经典/雷霆玄论",
-    "玄学/经典/皇帝四经/道原",
     "玄学/术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "术数/八字/7e026d1379fda7a3d3b42dededafc9c6_MD5.png",
     "玄学/术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
