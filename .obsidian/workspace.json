@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄学/玄功/拉伸/拉伸.md",
+                "file": "玄学/玄功/体能.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉伸"
+              "title": "体能"
             }
           }
         ]
@@ -131,13 +131,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/玄功/拉伸/拉伸.md",
+                "file": "玄学/玄功/体能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉伸 的大纲"
+              "title": "体能 的大纲"
             }
           },
           {
@@ -201,6 +201,7 @@
   "active": "748e1e6500bc9b57",
   "lastOpenFiles": [
     "玄学/玄功/拉伸/拉伸.md",
+    "玄学/玄功/体能.md",
     "玄学/玄功/拉伸",
     "国学/中文",
     "国学/中文/汉字/并/竝.md",
@@ -233,7 +234,6 @@
     "中医/理论/中医基础理论/长夏.md",
     "README.md",
     "玄学/术数/紫微斗数/星矅/四煞/铃星.md",
-    "玄学/术数/紫微斗数/星矅/四煞/陀罗星.md",
     "玄学/术数/紫微斗数/星矅/四煞",
     "玄学/术数/紫微斗数/星矅/杀破狼",
     "玄学/术数/紫微斗数/星矅",
