@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "体能"
             }
+          },
+          {
+            "id": "bf6dbff309e7a4c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄学/玄功/拉伸/腿部拉伸.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "腿部拉伸"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/玄功/体能.md",
+                "file": "玄学/玄功/拉伸/腿部拉伸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "体能 的大纲"
+              "title": "腿部拉伸 的大纲"
             }
           },
           {
@@ -198,8 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "748e1e6500bc9b57",
+  "active": "bf6dbff309e7a4c1",
   "lastOpenFiles": [
+    "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
+    "玄学/玄功/拉伸/腿部拉伸.md",
+    "玄学/玄功/拉伸/images",
+    "玄学/玄功/拉伸/images/9ed6090a9c6b23a973c63da0bd589a35_MD5.jpg",
     "玄学/玄功/拉伸/拉伸.md",
     "玄学/玄功/体能.md",
     "玄学/玄功/拉伸",
@@ -232,20 +261,15 @@
     "中医/理论/中医基础理论/阴阳.md",
     "中医/理论/中医基础理论/脏腑.md",
     "中医/理论/中医基础理论/长夏.md",
-    "README.md",
-    "玄学/术数/紫微斗数/星矅/四煞/铃星.md",
     "玄学/术数/紫微斗数/星矅/四煞",
     "玄学/术数/紫微斗数/星矅/杀破狼",
     "玄学/术数/紫微斗数/星矅",
     "玄学/术语",
-    "玄理/易理",
     "玄学/术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
     "术数/八字/7e026d1379fda7a3d3b42dededafc9c6_MD5.png",
     "玄学/术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
     "玄学/术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
     "玄学/术数/奇门/images/d5fcdef147ba4f58aca1e18663e039cf_MD5.png",
-    "玄学/术数/六壬/images/d6681d2bc4a3fd591d5a041bd0087b63_MD5.png",
-    "玄学/术数/六壬/images/ae82317b4a60e9a2732f17aee999b9db_MD5.png",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
