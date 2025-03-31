@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e22d984bc13de95",
+        "id": "97f90732b6256683",
         "type": "tabs",
         "children": [
           {
-            "id": "a14554d5157e2422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/功法/囚徒健身/六艺/俯卧撑.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "俯卧撑"
-            }
-          },
-          {
-            "id": "1e2760ca61a94c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/功法/囚徒健身/六艺/举腿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "举腿"
-            }
-          },
-          {
-            "id": "16137143a5e33e62",
+            "id": "459ba9b543f8d278",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +31,7 @@
               "title": "运动平面"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,17 +198,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16137143a5e33e62",
+  "active": "459ba9b543f8d278",
   "lastOpenFiles": [
-    "玄学/功法/囚徒健身/囚徒健身.md",
-    "中医/人体解剖学/运动平面.md",
-    "玄学/功法/囚徒健身/六艺/下蹲.md",
+    "中医/人体解剖学/images",
+    "中医/人体解剖学/images/541f9ca4bf27684ac95e537f2447481d_MD5.png",
+    "玄学/功法/囚徒健身/六艺/俯卧撑.md",
     "玄学/功法/囚徒健身/六艺/举腿.md",
+    "中医/人体解剖学/运动平面.md",
+    "玄学/功法/囚徒健身/囚徒健身.md",
+    "玄学/功法/囚徒健身/六艺/下蹲.md",
     "玄学/功法/囚徒健身/六艺",
     "玄学/功法/囚徒健身/六艺/桥.md",
     "玄学/功法/囚徒健身/六艺/引体向上.md",
     "玄学/功法/囚徒健身/六艺/倒立.md",
-    "玄学/功法/囚徒健身/六艺/俯卧撑.md",
     "玄学/功法/引气入体.md",
     "玄学/功法/囚徒健身",
     "中医/人体解剖学/大体解剖学/肌肉系统/肌肉系统.md",
@@ -288,13 +241,11 @@
     "国学/视角.md",
     "国学/images/Pasted image 20240828094142.png",
     "国学/中文/书法/九宫格.md",
-    "国学/images/Pasted image 20240730100541.png",
     "国学/中文/书法/九成宫醴泉铭/九成宫醴泉铭.md",
     "国学/images/1665194529730.png.md",
     "中医/理论/问止/第1课时 中医6大健康标准.md",
     "口诀.md",
     "玄学/术语/九宫.md",
-    "玄学/术语/洛书.md",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
