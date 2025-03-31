@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "运动行为"
             }
+          },
+          {
+            "id": "748ea9b21d23810b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "中医/人体解剖学/骨骼系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": true,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "骨骼系统"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +214,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "70952e6c47e512e1",
+  "active": "748ea9b21d23810b",
   "lastOpenFiles": [
-    "口诀.md",
     "中医/人体解剖学/运动行为.md",
+    "中医/人体解剖学/骨骼系统.md",
+    "口诀.md",
     "中医/人体解剖学",
     "玄学/玄功/拉伸/腿部拉伸.md",
     "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
@@ -234,7 +260,6 @@
     "术数/紫微斗数/星矅/文曲星.md",
     "术数/紫微斗数/星矅/文昌星.md",
     "术数/紫微斗数/星矅/天机星.md",
-    "/玄理/术语/天干.md",
     "/玄理/术语",
     "/玄理"
   ]
