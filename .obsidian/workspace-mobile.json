@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "口诀.md",
+                "file": "中医/人体解剖学/运动行为.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "口诀"
+              "title": "运动行为"
             }
           }
         ]
@@ -191,13 +191,31 @@
   },
   "active": "70952e6c47e512e1",
   "lastOpenFiles": [
-    "玄学/玄功/拉伸/拉伸.md",
     "口诀.md",
-    "/玄学/玄功/拉伸/拉伸.md",
+    "中医/人体解剖学/运动行为.md",
+    "中医/人体解剖学",
+    "玄学/玄功/拉伸/腿部拉伸.md",
+    "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
+    "玄学/玄功/拉伸/images/b3ef2f44141a5c610b848f7f17dfe3d7_MD5.jpg",
+    "玄学/玄功/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
+    "玄学/玄功/拉伸/images/adee060ed3ce3f9f88e1855bba7ada54_MD5.jpg",
+    "玄学/玄功/拉伸/images/9ed6090a9c6b23a973c63da0bd589a35_MD5.jpg",
+    "玄学/玄功/拉伸/images/4d176e97eb29704c7814df3cc3c10140_MD5.jpg",
+    "玄学/玄功/拉伸/images/3fcdd2f7d05abb80f4eabab07e3fca96_MD5.jpg",
+    "玄学/玄功/体能.md",
+    "/玄学/玄功/拉伸/腿部拉伸.md",
+    "/玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
+    "/玄学/玄功/拉伸/images/b3ef2f44141a5c610b848f7f17dfe3d7_MD5.jpg",
+    "/玄学/玄功/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
+    "/玄学/玄功/体能.md",
+    "/玄学/玄功/拉伸/images",
+    "玄学/玄功/拉伸/images",
     "/玄学/玄功/拉伸",
-    "玄学/玄功/拉伸",
     "/玄学/玄功",
     "/玄学",
+    "玄学/玄功/拉伸/拉伸.md",
+    "/玄学/玄功/拉伸/拉伸.md",
+    "玄学/玄功/拉伸",
     "玄学/术语/河图.md",
     "国学/教育.md",
     "conflict-files-obsidian-git.md",
@@ -217,25 +235,7 @@
     "术数/紫微斗数/星矅/文昌星.md",
     "术数/紫微斗数/星矅/天机星.md",
     "/玄理/术语/天干.md",
-    "/玄理/术语/地支.md",
-    "/玄理/术语/历法.md",
-    "/玄理/术语/五行.md",
     "/玄理/术语",
-    "/玄理",
-    "/术数/风水/户外.md",
-    "/术数/紫微斗数/禳星.md",
-    "/术数/紫微斗数/星矅/杀破狼",
-    "术数/风水",
-    "/术数/风水",
-    "术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
-    "/术数/八字/images/b390903c785873eb297e2d90e3e423a2_MD5.png",
-    "术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
-    "术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
-    "/术数/奇门/images/c8cce529158c04e2077e692a808b7a36_MD5.png",
-    "/术数/奇门/images/2baf523ff4216ac9f86af6924b21c263_MD5.png",
-    "术数/六壬/2b960a5ee2c1489f606ea9de42e6e83a_MD5.png",
-    "术数/六壬/images/f6fa1b32f92226c74b411a643436611c_MD5.png",
-    "术数/六壬/images/c27f2638312e111a802c29154143f4d3_MD5.png",
-    "术数/六壬/images/8312f371321f9e10d9a931f8867005d6_MD5.png"
+    "/玄理"
   ]
 }
