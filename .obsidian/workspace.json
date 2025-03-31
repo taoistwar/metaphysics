@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5219574f749b5978",
+        "id": "dfa3eba6827aef39",
         "type": "tabs",
         "children": [
           {
-            "id": "748e1e6500bc9b57",
+            "id": "8e2fdd606fb0a0e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/玄功/体能.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "体能"
-            }
-          },
-          {
-            "id": "bf6dbff309e7a4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/玄功/拉伸/腿部拉伸.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "腿部拉伸"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,13 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/玄功/拉伸/腿部拉伸.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "腿部拉伸 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -223,10 +183,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "8e2fdd606fb0a0e1",
   "lastOpenFiles": [
-    "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
+    "玄学/玄功/体能.md",
     "玄学/玄功/拉伸/腿部拉伸.md",
+    "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
     "玄学/玄功/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
     "玄学/玄功/拉伸/images/4d176e97eb29704c7814df3cc3c10140_MD5.jpg",
     "玄学/玄功/拉伸/images/3fcdd2f7d05abb80f4eabab07e3fca96_MD5.jpg",
@@ -235,7 +196,6 @@
     "玄学/玄功/拉伸/images",
     "玄学/玄功/拉伸/images/9ed6090a9c6b23a973c63da0bd589a35_MD5.jpg",
     "玄学/玄功/拉伸/拉伸.md",
-    "玄学/玄功/体能.md",
     "玄学/玄功/拉伸",
     "国学/中文",
     "国学/中文/汉字/并/竝.md",
