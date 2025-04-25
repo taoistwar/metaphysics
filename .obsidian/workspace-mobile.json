@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "206fe99d2b51d0d2",
+        "id": "bc3a186270bbf1fb",
         "type": "tabs",
         "children": [
           {
-            "id": "70952e6c47e512e1",
+            "id": "2537a45a2025b5d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/人体解剖学/运动行为.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "运动行为"
-            }
-          },
-          {
-            "id": "748ea9b21d23810b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中医/人体解剖学/骨骼系统.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "骨骼系统"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,53 +175,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "748ea9b21d23810b",
+  "active": "2537a45a2025b5d7",
   "lastOpenFiles": [
+    "丹道/小周天.md",
+    "丹道",
+    "丹道/小周天/5. 炼药归炉.md",
+    "丹道/小周天/4. 采药.md",
+    "丹道/小周天/3. 产药.md",
+    "丹道/小周天/2. 调药.md",
+    "丹道/小周天/小周天.md",
+    "丹道/小周天/1. 入手处和入手法.md",
+    "丹道/和合凝集.md",
+    "丹道/小周天",
+    "丹道/有为无为.md",
+    "丹道/神炁.md",
+    "丹道/保精与炼精.md",
+    "丹道/五时七侯.md",
+    "丹道",
+    "玄学/时空/大一统时空观.md",
+    "玄学/术语/历法.md",
+    "玄学/术语/天干.md",
     "中医/人体解剖学/运动行为.md",
-    "中医/人体解剖学/骨骼系统.md",
     "口诀.md",
-    "中医/人体解剖学",
-    "玄学/玄功/拉伸/腿部拉伸.md",
-    "玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
-    "玄学/玄功/拉伸/images/b3ef2f44141a5c610b848f7f17dfe3d7_MD5.jpg",
-    "玄学/玄功/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
-    "玄学/玄功/拉伸/images/adee060ed3ce3f9f88e1855bba7ada54_MD5.jpg",
-    "玄学/玄功/拉伸/images/9ed6090a9c6b23a973c63da0bd589a35_MD5.jpg",
-    "玄学/玄功/拉伸/images/4d176e97eb29704c7814df3cc3c10140_MD5.jpg",
-    "玄学/玄功/拉伸/images/3fcdd2f7d05abb80f4eabab07e3fca96_MD5.jpg",
-    "玄学/玄功/体能.md",
-    "/玄学/玄功/拉伸/腿部拉伸.md",
-    "/玄学/玄功/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
-    "/玄学/玄功/拉伸/images/b3ef2f44141a5c610b848f7f17dfe3d7_MD5.jpg",
-    "/玄学/玄功/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
-    "/玄学/玄功/体能.md",
-    "/玄学/玄功/拉伸/images",
-    "玄学/玄功/拉伸/images",
-    "/玄学/玄功/拉伸",
-    "/玄学/玄功",
-    "/玄学",
-    "玄学/玄功/拉伸/拉伸.md",
-    "/玄学/玄功/拉伸/拉伸.md",
-    "玄学/玄功/拉伸",
-    "玄学/术语/河图.md",
-    "国学/教育.md",
-    "conflict-files-obsidian-git.md",
-    "术数/紫微斗数/星矅/四煞/火星.md",
-    "术数/紫微斗数/星矅/四煞/铃星.md",
-    "术数/紫微斗数/星矅/四煞/陀罗星.md",
-    "术数/紫微斗数/星矅/四煞/擎羊星.md",
-    "术数/紫微斗数/星矅/杀破狼/七杀星.md",
-    "术数/紫微斗数/星矅/四煞",
-    "术数/紫微斗数/星矅/紫微星.md",
-    "术数/紫微斗数/宫位.md",
-    "术数/紫微斗数/星矅/星矅.md",
-    "术数/紫微斗数/星曜.md",
-    "术数/风水/户外.md",
-    "术数/紫微斗数/禳星.md",
-    "术数/紫微斗数/星矅/文曲星.md",
-    "术数/紫微斗数/星矅/文昌星.md",
-    "术数/紫微斗数/星矅/天机星.md",
-    "/玄理/术语",
-    "/玄理"
+    "玄学/术数/六壬/六壬.md",
+    "玄学/术数/奇门/01. 奇门概述.md",
+    "玄学/术数/八字/01. 八字概述.md",
+    "玄学/术语/干支纪年.md",
+    "玄学/时空",
+    "玄学/功法/撑筋拔骨/1 撑筋拔骨，健身与实战作用.md",
+    "玄学/功法/拉伸/拉伸.md",
+    "玄学/功法/引气入体.md",
+    "/玄学/功法/撑筋拔骨/1 撑筋拔骨，健身与实战作用.md",
+    "玄学/功法/拉伸/腿部拉伸.md",
+    "玄学/功法/拉伸/images/d82c0898de51a7f6b16b1ac459e153bf_MD5.jpg",
+    "玄学/功法/拉伸/images/b3ef2f44141a5c610b848f7f17dfe3d7_MD5.jpg",
+    "玄学/功法/拉伸/images/aee63c08cf885b944e1584529c680ef7_MD5.jpg",
+    "玄学/功法/拉伸/images/adee060ed3ce3f9f88e1855bba7ada54_MD5.jpg",
+    "玄学/功法/拉伸/images/9ed6090a9c6b23a973c63da0bd589a35_MD5.jpg",
+    "玄学/功法/拉伸/images/4d176e97eb29704c7814df3cc3c10140_MD5.jpg",
+    "玄学/功法/拉伸/images/3fcdd2f7d05abb80f4eabab07e3fca96_MD5.jpg",
+    "玄学/功法/囚徒健身/六艺/f93e6d6a76413524bc0b6053f72c3e77_MD5.jpg",
+    "玄学/功法/囚徒健身/六艺/f0397bfb49079b7b023e079d26e5abb0_MD5.jpg",
+    "玄学/功法/囚徒健身/六艺/e9b0ded2774d553030034ef8a34decd3_MD5.jpg",
+    "玄学/功法/拉伸/images",
+    "玄学/功法/囚徒健身/六艺",
+    "玄学/功法/撑筋拔骨",
+    "玄学/功法/拉伸",
+    "玄学/功法/囚徒健身",
+    "玄学/功法"
   ]
 }
