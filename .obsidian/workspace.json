@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄学/小功法/金鸡独立法.md",
+                "file": "玄学/囚徒健身/三重彩/扭转式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "金鸡独立法"
+              "title": "扭转式"
+            }
+          },
+          {
+            "id": "187095567be885d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄学/囚徒健身/囚徒健身.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "囚徒健身"
             }
           },
           {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/小功法/金鸡独立法.md",
+                "file": "玄学/囚徒健身/囚徒健身.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "金鸡独立法 的大纲"
+              "title": "囚徒健身 的大纲"
             }
           },
           {
@@ -295,10 +319,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2dfb66dba090e0b",
+  "active": "187095567be885d9",
   "lastOpenFiles": [
-    "玄学/囚徒健身/六艺/桥.md",
+    "玄学/囚徒健身/三重彩/扭转式.md",
+    "玄学/囚徒健身/三重彩/直角式.md",
     "玄学/小功法/金鸡独立法.md",
+    "玄学/囚徒健身/六艺/桥.md",
     "玄学/小功法/未命名",
     "玄学/小功法/抖肾功.md",
     "玄学/小功法/回春术.md",
@@ -341,8 +367,6 @@
     "玄学/拉伸/拉伸.md",
     "国学/中文/汉字/并/竝.md",
     "国学/中文/汉字/并/幷.md",
-    "国学/中文/汉字/并/并.md",
-    "国学/视角.md",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
