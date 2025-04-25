@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33265124c4a7c10e",
+        "id": "6884aa99a315fe02",
         "type": "tabs",
         "children": [
           {
-            "id": "7b944efd9456f38e",
+            "id": "2c1ae100b4bd0c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "术数/术语/天纪.md",
+                "file": "玄学/囚徒健身/三重彩/桥式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "天纪"
+              "title": "桥式"
             }
           },
           {
-            "id": "a3c77ddf7cf151fb",
+            "id": "e2dfb66dba090e0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经典/易经/易经.md",
+                "file": "玄学/小功法/金鸡独立法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "易经"
+              "title": "金鸡独立法"
             }
           },
           {
-            "id": "479618b538ea8aed",
+            "id": "30cd4e93bd687c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "玄学/拉伸/体能.md",
+                "file": "玄学/囚徒健身/六艺/倒立.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "体能"
+              "title": "倒立"
+            }
+          },
+          {
+            "id": "eb25c814928f458e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄学/囚徒健身/六艺/俯卧撑.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "俯卧撑"
+            }
+          },
+          {
+            "id": "eaca9b986fbc6ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "玄学/囚徒健身/六艺/举腿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "举腿"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/拉伸/体能.md",
+                "file": "玄学/小功法/金鸡独立法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "体能 的大纲"
+              "title": "金鸡独立法 的大纲"
             }
           },
           {
@@ -247,54 +295,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "288538aa4804d0d5",
+  "active": "e2dfb66dba090e0b",
   "lastOpenFiles": [
-    "经典/易经/易经.md",
-    "经典",
-    "术数/术语/天纪.md",
-    "玄学/小周天",
+    "玄学/囚徒健身/六艺/桥.md",
+    "玄学/小功法/金鸡独立法.md",
+    "玄学/小功法/未命名",
+    "玄学/小功法/抖肾功.md",
+    "玄学/小功法/回春术.md",
     "玄学/小周天/小周天.md",
-    "玄学",
+    "玄学/小功法",
+    "玄学/囚徒健身/囚徒健身.md",
+    "玄学/囚徒健身/三重彩/桥式.md",
+    "玄学/囚徒健身/六艺/举腿.md",
     "玄学/囚徒健身/六艺/俯卧撑.md",
-    "玄学/囚徒健身/六艺/0f5ead7c7a66b5848ef38be815a970c8_MD5.jpg",
-    "玄学/囚徒健身/六艺/d9efc4cce809b2d25de86d9818ff9832_MD5.jpg",
-    "玄学/囚徒健身/六艺/c518c9532863a63351100a387e702ad7_MD5.jpg",
-    "玄学/囚徒健身/六艺/c6752c3883eae692eb6d2ec0bc1c1442_MD5.jpg",
-    "玄学/囚徒健身/六艺/f0397bfb49079b7b023e079d26e5abb0_MD5.jpg",
-    "玄学/囚徒健身/六艺/110b72a0081d1cc185aa97ce4cc8e123_MD5.jpg",
-    "玄学/囚徒健身/六艺/e87da9023788c4dbce7f8d01d256b4bd_MD5.jpg",
-    "玄学/囚徒健身/六艺/7054005e25b61e84a3a2633cffdee7ce_MD5.jpg",
-    "玄学/囚徒健身/六艺/cbfc2b9de6e1b5206d9a30bfb0f16df3_MD5.jpg",
-    "玄学/囚徒健身/六艺/c573ee69db741909c3cf428da601ae52_MD5.jpg",
+    "玄学/囚徒健身/六艺/倒立.md",
+    "玄学/囚徒健身/images/548ebf5ddec514df19f7c764d20cedaf_MD5.jpg",
+    "玄学/囚徒健身/images/c6752c3883eae692eb6d2ec0bc1c1442_MD5.jpg",
+    "术数/术语/天纪.md",
+    "经典/易经/易经.md",
+    "玄学/拉伸/体能.md",
+    "玄学/囚徒健身/images/0f5ead7c7a66b5848ef38be815a970c8_MD5.jpg",
+    "玄学/囚徒健身/images/b954b935f77c4381a2079fbeeb304795_MD5.jpg",
+    "玄学/囚徒健身/images",
+    "玄学/囚徒健身/三重彩",
+    "经典",
+    "玄学/小周天",
+    "玄学",
+    "玄学/囚徒健身/images/d9efc4cce809b2d25de86d9818ff9832_MD5.jpg",
+    "玄学/囚徒健身/images/c518c9532863a63351100a387e702ad7_MD5.jpg",
+    "玄学/囚徒健身/images/f0397bfb49079b7b023e079d26e5abb0_MD5.jpg",
+    "玄学/囚徒健身/images/110b72a0081d1cc185aa97ce4cc8e123_MD5.jpg",
+    "玄学/囚徒健身/images/e87da9023788c4dbce7f8d01d256b4bd_MD5.jpg",
+    "玄学/囚徒健身/images/7054005e25b61e84a3a2633cffdee7ce_MD5.jpg",
     "中医/人体解剖学/运动平面.md",
     "中医/人体解剖学/images",
-    "玄学/囚徒健身/六艺/举腿.md",
-    "玄学/囚徒健身/囚徒健身.md",
     "玄学/囚徒健身/六艺/下蹲.md",
     "玄学/囚徒健身/六艺",
-    "玄学/囚徒健身/六艺/桥.md",
     "玄学/囚徒健身/六艺/引体向上.md",
-    "玄学/囚徒健身/六艺/倒立.md",
     "玄学/引气入体.md",
     "玄学/囚徒健身",
     "中医/人体解剖学/大体解剖学/肌肉系统/肌肉系统.md",
-    "中医/人体解剖学/显微解剖学/组织学",
-    "中医/人体解剖学/显微解剖学/细胞学",
-    "中医/人体解剖学/显微解剖学",
-    "中医/人体解剖学/大体解剖学",
     "中医/人体解剖学/大体解剖学/骨骼系统/骨骼系统.md",
     "中医/人体解剖学/运动行为.md",
-    "玄学/拉伸/体能.md",
     "玄学/拉伸/腿部拉伸.md",
     "玄学/拉伸/拉伸.md",
     "国学/中文/汉字/并/竝.md",
     "国学/中文/汉字/并/幷.md",
     "国学/中文/汉字/并/并.md",
     "国学/视角.md",
-    "国学/中文/书法/九宫格.md",
-    "国学/中文/书法/九成宫醴泉铭/九成宫醴泉铭.md",
-    "国学/images/1665194529730.png.md",
-    "中医/理论/问止/第1课时 中医6大健康标准.md",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
