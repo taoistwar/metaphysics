@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3a186270bbf1fb",
+        "id": "b05e858a5a788f45",
         "type": "tabs",
         "children": [
           {
-            "id": "2537a45a2025b5d7",
+            "id": "8e6c34a4de2fd4fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "口诀.md",
+                "file": "中医/理论/中医基础理论/体征 vs 症状.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "口诀"
+              "title": "体征 vs 症状"
             }
           }
         ]
@@ -189,8 +189,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2537a45a2025b5d7",
+  "active": "8e6c34a4de2fd4fc",
   "lastOpenFiles": [
+    "中医/理论/中医基础理论/体征 vs 症状.md",
+    "中医/理论/中医基础理论/中医学理论体系的主要特点.md",
+    "口诀.md",
     "经典/皇帝四经/称/称.md",
     "经典/皇帝四经/十大经/05. 正乱.md",
     "经典/皇帝四经/十大经/10. 三禁.md",
@@ -214,9 +217,6 @@
     "经典/皇帝四经/经法/08. 论约.md",
     "经典/皇帝四经/经法/02. 国次.md",
     "经典/皇帝四经/经法/06. 论.md",
-    "经典/皇帝四经/经法/07. 亡论.md",
-    "经典/皇帝四经/经法/09. 名理.md",
-    "经典/皇帝四经/经法/01. 道法.md",
     "经典/皇帝四经/称",
     "经典/皇帝四经/十大经",
     "经典/皇帝四经/道原",
