@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6884aa99a315fe02",
+        "id": "de12b96324e47206",
         "type": "tabs",
         "children": [
           {
-            "id": "e2dfb66dba090e0b",
+            "id": "6469ad62998fff6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/囚徒健身/三重彩/扭转式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "扭转式"
-            }
-          },
-          {
-            "id": "8a144ae95dfea0ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/囚徒健身/三重彩/直角式.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "直角式"
-            }
-          },
-          {
-            "id": "d5ed205558897e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/囚徒健身/六艺/桥.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "桥"
-            }
-          },
-          {
-            "id": "187095567be885d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "玄学/囚徒健身/囚徒健身.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "囚徒健身"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "玄学/囚徒健身/三重彩/直角式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "直角式 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -271,53 +183,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a144ae95dfea0ce",
+  "active": "288538aa4804d0d5",
   "lastOpenFiles": [
-    "玄学/囚徒健身/三重彩/扭转式.md",
-    "玄学/囚徒健身/三重彩/桥式.md",
-    "玄学/囚徒健身/三重彩/直角式.md",
-    "玄学/囚徒健身/images/d06ffac4d751ffe87f154a87f36a1c17_MD5.jpg",
-    "玄学/囚徒健身/images/76bb13284d8e160ec3d13da48ec5c149_MD5.jpg",
-    "玄学/囚徒健身/images/82f298c4ffc7345e8645c251d91d9f15_MD5.jpg",
-    "玄学/囚徒健身/images/e4439f938c5afd3f0d68f8daf7ce5e99_MD5.jpg",
-    "玄学/囚徒健身/六艺/桥.md",
-    "玄学/囚徒健身/囚徒健身.md",
-    "玄学/囚徒健身/六艺/倒立.md",
-    "玄学/囚徒健身/六艺/举腿.md",
-    "玄学/囚徒健身/六艺/俯卧撑.md",
-    "玄学/小功法/金鸡独立法.md",
+    "功法/囚徒健身/三重彩/直角式.md",
+    "中医/理论/中医基础理论/体征 vs 症状.md",
+    "中医/理论/中医基础理论/中医学理论体系的主要特点.md",
+    "中医/技法/推拿/小儿推拿.md",
+    "中医/技法/推拿/2d6edf5d7e1fd6a4627e0b284cd9c775_MD5.jpg",
+    "中医/技法/推拿/10e0a75c4cd7692eb2a3361cc183cd61_MD5.jpg",
+    "中医/技法/推拿/ab0f68671b03e82def53e905ad3e0b35_MD5.jpg",
+    "中医/技法/推拿",
+    "功法/囚徒健身/三重彩/扭转式.md",
+    "功法/囚徒健身/三重彩/桥式.md",
+    "功法/囚徒健身/images/d06ffac4d751ffe87f154a87f36a1c17_MD5.jpg",
+    "功法/囚徒健身/images/76bb13284d8e160ec3d13da48ec5c149_MD5.jpg",
+    "功法/囚徒健身/images/82f298c4ffc7345e8645c251d91d9f15_MD5.jpg",
+    "功法/囚徒健身/images/e4439f938c5afd3f0d68f8daf7ce5e99_MD5.jpg",
+    "功法/囚徒健身/六艺/桥.md",
+    "功法/囚徒健身/囚徒健身.md",
+    "功法/囚徒健身/六艺/倒立.md",
+    "功法/囚徒健身/六艺/举腿.md",
+    "功法/囚徒健身/六艺/俯卧撑.md",
+    "功法/小功法/金鸡独立法.md",
     "玄学/小功法/未命名",
-    "玄学/小功法/抖肾功.md",
-    "玄学/小功法/回春术.md",
-    "玄学/小周天/小周天.md",
-    "玄学/小功法",
-    "玄学/囚徒健身/images/548ebf5ddec514df19f7c764d20cedaf_MD5.jpg",
-    "玄学/囚徒健身/images/c6752c3883eae692eb6d2ec0bc1c1442_MD5.jpg",
+    "功法/小功法/抖肾功.md",
+    "功法/小功法/回春术.md",
+    "功法/小周天/小周天.md",
+    "功法/小功法",
+    "功法/囚徒健身/images/548ebf5ddec514df19f7c764d20cedaf_MD5.jpg",
+    "功法/囚徒健身/images/c6752c3883eae692eb6d2ec0bc1c1442_MD5.jpg",
     "术数/术语/天纪.md",
     "经典/易经/易经.md",
-    "玄学/拉伸/体能.md",
-    "玄学/囚徒健身/images/0f5ead7c7a66b5848ef38be815a970c8_MD5.jpg",
-    "玄学/囚徒健身/images/b954b935f77c4381a2079fbeeb304795_MD5.jpg",
-    "玄学/囚徒健身/images",
-    "玄学/囚徒健身/三重彩",
+    "功法/拉伸/体能.md",
+    "功法/囚徒健身/images/0f5ead7c7a66b5848ef38be815a970c8_MD5.jpg",
+    "功法/囚徒健身/images",
+    "功法/囚徒健身/三重彩",
     "经典",
-    "玄学/小周天",
-    "玄学",
-    "玄学/囚徒健身/images/d9efc4cce809b2d25de86d9818ff9832_MD5.jpg",
-    "玄学/囚徒健身/images/c518c9532863a63351100a387e702ad7_MD5.jpg",
+    "功法/小周天",
+    "功法",
     "中医/人体解剖学/运动平面.md",
     "中医/人体解剖学/images",
-    "玄学/囚徒健身/六艺/下蹲.md",
-    "玄学/囚徒健身/六艺",
-    "玄学/囚徒健身/六艺/引体向上.md",
-    "玄学/引气入体.md",
-    "玄学/囚徒健身",
+    "功法/囚徒健身/六艺/下蹲.md",
+    "功法/囚徒健身/六艺",
+    "功法/囚徒健身/六艺/引体向上.md",
+    "功法/引气入体.md",
     "中医/人体解剖学/大体解剖学/肌肉系统/肌肉系统.md",
     "中医/人体解剖学/大体解剖学/骨骼系统/骨骼系统.md",
     "中医/人体解剖学/运动行为.md",
-    "玄学/拉伸/腿部拉伸.md",
-    "玄学/拉伸/拉伸.md",
-    "国学/中文/汉字/并/竝.md",
+    "功法/拉伸/腿部拉伸.md",
     "主页.canvas",
     "未命名.canvas",
     "HOME.canvas",
